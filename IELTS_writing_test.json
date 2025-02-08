@@ -1,0 +1,785 @@
+[
+    {
+        "Word":"Paltry",
+        "Sentence":["Despite the government's claims of economic progress, the paltry increase in wages has left many workers struggling to make ends meet",
+         "The paltry funding allocated to education reflects a concerning lack of priority for future generations",
+           "The paltry efforts made to address climate change are insufficient to combat the escalating environmental crisis", 
+           " Many developing nations receive only a paltry share of global aid, despite being the most in need of support", 
+           "A paltry number of women hold leadership positions in major companies, highlighting the persistent gender inequality in the workplace",
+           "The paltry investment in public healthcare has resulted in overcrowded hospitals and inadequate patient care", 
+           "Despite the growing demand for renewable energy, governments continue to allocate a paltry budget to green technology research "]
+
+    },
+    {
+        "Word":"made to address",
+        "Meaning":["efforts, actions, or measures taken to deal with or solve a specific problem or issue"],
+        "Total":[
+            {
+                "Structure":"[Efforts/Measures/Actions] + made to address + [problem/issue]",
+                "Example":[
+                    {
+                        "Tag":"Environmental Issues",
+                        "Sentence":[
+                            "The measures made to address deforestation have been largely ineffective, as illegal logging continues to devastate forests worldwide"
+                        ]
+                    },
+                    {
+                        "Tag":"Healthcare",
+                        "Sentence":[
+                            "Efforts made to address the shortage of medical professionals in rural areas have not yet yielded significant results."
+                        ]
+                    },
+                    {
+                        "Tag":"Education",
+                        "Sentence":[
+                            "The initiatives made to address the digital divide in education during the pandemic were commendable but insufficient."
+                        ]
+                    },
+                    {
+                        "Tag":"Economic Inequality",
+                        "Sentence":[
+                            "Policies made to address income inequality often fail to target the root causes of the problem."
+                        ]
+                    },
+                    {
+                        "Tag":"Climate Change",
+                        "Sentence":[
+                            "Global efforts made to address climate change, such as the Paris Agreement, are a step in the right direction but require stricter enforcement."
+                        ]
+                    },
+                    {
+                        "Tag":"Unemployment",
+                        "Sentence":[
+                            "The programs made to address youth unemployment have not been able to keep up with the rapidly changing job market."
+                        ]
+                    },
+                    {
+                        "Tag":"Public Transportation",
+                        "Sentence":[
+                            "Investments made to address the inefficiencies in public transportation systems have significantly improved urban mobility."
+                        ]
+                    },
+                    {
+                        "Tag":"Gender Inequality",
+                        "Sentence":[
+                            "The campaigns made to address gender inequality in the workplace have led to some progress, but the gender pay gap remains a persistent issue."
+                        ]
+                    },
+                    {
+                        "Tag":"Homelessness",
+                        "Sentence":[
+                            "The strategies made to address homelessness in urban areas often focus on short-term solutions rather than long-term housing stability."
+                        ]
+                    },
+                    {
+                        "Tag":"Crime Prevention",
+                        "Sentence":[
+                            "The measures made to address rising crime rates in cities have included increased police presence and community outreach programs."
+                        ]
+                    }
+
+                ]
+            }
+        ]
+    },
+    {
+        "Word":"... as being more ... than ... counterparts",
+        "Meaning":["used to highlight a difference between two groups or things"],
+        "Total":[
+            {
+                "Example":[
+                    {
+                        "Sentence":"Urban residents are often perceived as being more career-driven than their rural counterparts",
+                        "Meaning": "People living in cities are seen as more focused on their careers compared to those living in rural areas."
+                    },
+                    {
+                        "Sentence":"Online courses are regarded as being more flexible than traditional classroom counterparts",
+                        "Meaning": "Online courses are considered to offer greater flexibility than traditional in-person classes."
+                    },
+                    {
+                        "Sentence":"Younger generations are seen as being more tech-savvy than their older counterparts",
+                        "Meaning":"Younger people are viewed as having better skills and knowledge about technology compared to older people"
+                    },
+                    {
+                        "Sentence":"Electric vehicles are often described as being more environmentally friendly than their gasoline-powered counterparts",
+                        "Meaning": "Electric cars are considered to have a smaller environmental impact than cars that run on gasoline"
+                    },
+                    {
+                        "Sentence":"Women are sometimes portrayed as being more empathetic than their male counterparts.",
+                        "Meaning":"Women are often depicted as having a greater ability to understand and share the feelings of others compared to men"
+                    }
+                ]
+            }
+        ],
+        "Example":["Some people argue that online learning is as effective as traditional classroom education. However, others believe that online courses are perceived as being more convenient than their traditional counterparts due to their flexibility and accessibility."]
+    },
+    {
+        "Word":"if ... were to become... it could have....",
+        "Meaning":["used to describe a hypothetical situation or event"],
+        "Total":[
+            {
+                "Structure": "If + subject + were to become + adjective, it could have + effect/result",
+                "Example":[
+                    {
+                        "Sentence":"If technology were to become more advanced, it could have a significant impact on how we live our daily lives",
+                        "Meaning":"If technology advances further, it might greatly change our everyday routines and habits"
+                    },
+                    {
+                        "Sentence":"If renewable energy were to become the primary source of power, it could have a major impact on reducing pollution",
+                        "Meaning":"If renewable energy becomes the main energy source, it might significantly decrease environmental pollution."
+                    },
+                    {
+                        "Sentence":"If this small startup were to become a global company, it could have a huge influence on the industry.",
+                        "Meaning":" If this startup grows into a worldwide business, it might greatly shape or change the industry it operates in"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Word":"This is because..., hence...",
+        "Meaning":["cause-and-effect relationships"],
+        "Total":[
+            {
+                "Example":[
+                    {
+                        "Tag":"Environment",
+                        "Sentence":"Governments should prioritize renewable energy projects. This is because fossil fuels are a major contributor to greenhouse gas emissions, hence transitioning to cleaner energy sources would significantly reduce the global carbon footprint.",
+                        "Meaning":"Governments should focus on renewable energy because fossil fuels harm the environment, and switching to cleaner energy would help combat climate change"
+                    },
+                    {
+                        "Tag":"Education",
+                        "Sentence":"Investing in education is essential for a nation's development. This is because an educated population is more likely to innovate and solve complex problems, hence driving economic growth and social progress.",
+                        "Meaning":"Education is crucial because it fosters innovation and problem-solving, which leads to economic and social advancement."
+                    },
+                    {
+                        "Tag":"Health",
+                        "Sentence":"Regular exercise should be encouraged in schools. This is because physical activity improves both mental and physical health, hence reducing the risk of chronic diseases and enhancing students' overall well-being.",
+                        "Meaning":"Schools should promote exercise because it boosts health, which prevents diseases and improves students' quality of life"
+                    },
+                    {
+                        "Tag":"Technology",
+                        "Sentence":"Artificial intelligence has the potential to revolutionize industries. This is because it can automate repetitive tasks and analyze vast amounts of data, hence increasing efficiency and enabling more informed decision-making",
+                        "Meaning":" AI is transformative because it automates tasks and processes data, leading to greater efficiency and better decisions"
+                    },
+                    {
+                        "Tag":"Globalization",
+                        "Sentence":"Globalization has led to increased cultural exchange. This is because people from different countries are more connected than ever before, hence fostering greater understanding and cooperation among nations",
+                        "Meaning":"Globalization promotes cultural exchange because it connects people worldwide, which enhances mutual understanding and collaboration"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Word":"Thus, the obligation of... makes for a convincing argument...",
+        "Meaning":["emphasizing the strength of an argument in a sophisticated way"],
+        "Total":[
+            {
+                "Example":[
+                    {
+                        "Tag":"Environment",
+                        "Sentence":"Governments have a duty to protect natural resources for future generations. Thus, the obligation of implementing sustainable policies makes for a convincing argument in favor of stricter environmental regulations",
+                        "Meaning":"Governments must protect the environment, so the need for sustainable policies strongly supports the case for stricter regulations"
+                    },
+                    {
+                        "Tag":"Education",
+                        "Sentence":"Education is a fundamental human right that empowers individuals and societies. Thus, the obligation of ensuring equal access to quality education makes for a convincing argument for increased government funding in this sector",
+                        "Meaning":"Education is essential for personal and societal growth, so the responsibility to provide equal access strongly justifies more government investment"
+                    },
+                    {
+                        "Tag":"Health",
+                        "Sentence":"Public health is a cornerstone of a thriving society. Thus, the obligation of promoting healthy lifestyles and preventive care makes for a convincing argument for allocating more resources to healthcare systems",
+                        "Meaning":"Public health is vital for societal well-being, so the duty to encourage healthy living strongly supports the need for greater healthcare funding"
+                    },
+                    {
+                        "Tag":"Technology",
+                        "Sentence":"Technology plays a pivotal role in modern economic growth. Thus, the obligation of investing in research and development makes for a convincing argument for prioritizing innovation in national budgets.",
+                        "Meaning":"Technology drives economic progress, so the responsibility to fund research strongly justifies making innovation a budget priority"
+                    },
+                    {
+                        "Tag":"Globalization",
+                        "Sentence":"Globalization has interconnected economies and cultures worldwide. Thus, the obligation of fostering international cooperation makes for a convincing argument for supporting global initiatives like climate agreements",
+                        "Meaning":"Globalization connects the world, so the duty to promote collaboration strongly supports backing global efforts such as climate treaties"
+                    }
+                ]
+                
+            }
+        ]
+    },
+    {
+        "Word":"Due to..., I am strongly in favor of...",
+        "Total":[
+            {
+                "Example":[
+                    {
+                        "Tag":"Environment",
+                        "Sentence":"Due to the alarming rate of deforestation and its devastating impact on biodiversity, I am strongly in favor of implementing stricter regulations to protect natural habitats.",
+                        "Meaning":"Deforestation is happening too quickly and harming ecosystems, so I support stronger laws to preserve nature."
+                    },
+                    {
+                        "Tag":"Education",
+                        "Sentence":"Due to the proven correlation between education and economic growth, I am strongly in favor of increasing government funding for schools and universities.",
+                        "Meaning":"Education helps economies grow, so I believe governments should invest more in educational institutions."
+                    },
+                    {
+                        "Tag":"Technology",
+                        "Sentence":"Due to the rapid advancements in artificial intelligence and its potential to transform industries, I am strongly in favor of integrating AI into educational curricula to prepare future generations",
+                        "Meaning":"AI is evolving quickly and can change many fields, so I support teaching it in schools to equip students for the future."
+                    },
+                    {
+                        "Tag":"Health",
+                        "Sentence":"Due to the rising prevalence of lifestyle-related diseases such as obesity and diabetes, I am strongly in favor of promoting public health campaigns that encourage healthier eating habits and regular exercise",
+                        "Meaning":"More people are suffering from diseases caused by poor lifestyles, so I support campaigns that encourage better diet and exercise"
+                    },
+                    {
+                        "Tag":"Globalization",
+                        "Sentence":"Due to the increasing interconnectedness of the global economy, I am strongly in favor of policies that promote international trade and cultural exchange.",
+                        "Meaning":"The world is more connected than ever, so I support policies that boost trade and cultural sharing between countries."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Word":"while",
+        "Total":[
+            {
+                "Structure":"While [idea 1], [idea 2]",
+                "Use":"To present two opposing viewpoints or ideas.",
+                "Example":[
+                    {
+                        "Sentence":"While some argue that technology isolates individuals, others believe it fosters global connections"
+
+                    }
+                ]
+            },
+            {
+                "Structure":"While [action 1], [action 2]",
+                "Use":"To describe two actions happening at the same time",
+                "Example":[
+                    {
+                        "Sentence":"While governments invest in infrastructure, they must also address environmental concerns"
+
+                    }
+                ]
+            },
+            {
+                "Structure":"While it is true that [point], [stronger point]",
+                "Use":"To concede a point before emphasizing your main argument",
+                "Example":[
+                    {
+                        "Sentence":" While it is true that economic growth is important, it should not come at the expense of environmental sustainability"
+
+                    }
+                ]
+            },
+            {
+                "Structure":"While [positive/negative idea 1], [positive/negative idea 2]",
+                "Use":"To compare and balance two related ideas",
+                "Example":[
+                    {
+                        "Sentence":"While urban areas offer better job opportunities, rural regions provide a higher quality of life."
+
+                    }
+                ]
+            },
+            {
+                "Structure":"While [expected outcome], [unexpected outcome].",
+                "Use":"To highlight contradictions or unexpected results",
+                "Example":[
+                    {
+                        "Sentence":"While globalization was expected to reduce inequality, it has, in fact, widened the gap between rich and poor"
+
+                    }
+                ]
+            },
+            {
+                "Structure":"While [idea 1], which [additional detail], [idea 2]",
+                "Use":"To add complexity and depth to your writing.",
+                "Example":[
+                    {
+                        "Sentence":"While renewable energy sources, which are often more sustainable, are gaining popularity, many countries still rely heavily on fossil fuels"
+
+                    }
+                ]
+            },
+            {
+                "Structure":"While [verb+ing], [main clause]",
+                "Use":"To make your writing more concise and formal",
+                "Example":[
+                    {
+                        "Sentence":"While acknowledging the benefits of technology, we must also consider its potential drawbacks."
+
+                    }
+                ]
+            },
+            {
+                "Structure":"While [inverted clause], [main clause].",
+                
+                "Example":[
+                    {
+                        "Sentence":"While important are the economic benefits, the social impacts of tourism cannot be ignored."
+
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Word":"due to",
+        "Example":["The decline in traditional cultural practices is largely due to the influence of globalization. Due to the widespread availability of Western media, many young people are adopting foreign lifestyles, which has led to a loss of cultural identity. This shift is not only due to technological advancements but also the increasing interconnectedness of the world"],
+        "Total":[
+            {
+                "Structure":"[Effect] is due to [Cause]",
+                "Use":"To directly link a result to its cause",
+                "Example":[
+                    {
+                        "Sentence":"The rise in global temperatures is largely due to increased greenhouse gas emissions"
+                    }
+                ]
+            },
+            {
+                "Structure":"Due to [Cause], [Effect]",
+                "Use":"To emphasize the cause before stating the effect",
+                "Example":[
+                    {
+                        "Sentence":"Due to advancements in technology, many traditional jobs have become obsolete[=out of date]"
+                    }
+                ]
+            },
+            {
+                "Structure":"[Effect] is due to [Noun Phrase]",
+                "Use":"To provide a concise explanation using a noun phrase",
+                "Example":[
+                    {
+                        "Sentence":" The decline in biodiversity is due to deforestation and habitat destruction"
+                    }
+                ]
+            },
+            {
+                "Structure":"[Effect], which is due to [Cause], [Additional Information]",
+                "Use":"To add complexity and detail to your sentences.",
+                "S_example":["Environmental degradation, which is due to deforestation and industrial pollution, has become a global crisis. This issue not only threatens biodiversity but also exacerbates climate change, making it imperative for governments to take immediate action."],
+                "Example":[
+                    {
+                        "Tag":"Environment",
+                        "Sentence":"Climate change, which is due to excessive carbon emissions, has led to more frequent natural disasters such as hurricanes and floods"
+                    },
+                    {
+                        "Tag":"Education",
+                        "Sentence":"The decline in literacy rates, which is due to inadequate funding for schools, has become a major concern for developing countries"
+                    },
+                    {
+                        "Tag":"Technology",
+                        "Sentence":"The rise in cybercrime, which is due to the increasing reliance on digital platforms, has prompted[=lead to] governments to strengthen cybersecurity measures"
+                    },
+                    {
+                        "Tag":"Health",
+                        "Sentence":"The obesity epidemic, which is due to the consumption of processed foods and sedentary lifestyles, has placed a significant burden on healthcare systems"
+                    },
+                    {
+                        "Tag":"Urbanization",
+                        "Sentence":"Traffic congestion in cities, which is due to rapid urbanization and poor infrastructure planning, has resulted in increased air pollution"
+                    },
+                    {
+                        "Tag":"Globalization",
+                        "Sentence":" The loss of cultural diversity, which is due to the spread of global media and consumerism, has raised concerns about cultural homogenization"
+                    },
+                    {
+                        "Tag":"Economy",
+                        "Sentence":"The widening wealth gap, which is due to unequal access to education and job opportunities, has fueled social unrest in many countries"
+                    },
+                    {
+                        "Tag":"Work",
+                        "Sentence":"The increase in remote work, which is due to advancements in technology and the COVID-19 pandemic, has transformed traditional work environments"
+                    },
+                    {
+                        "Tag":"Crime",
+                        "Sentence":"The rise in juvenile[=teenage] crime rates, which is due to poverty and lack of parental guidance, has become a pressing issue for policymakers"
+                    },
+                    {
+                        "Tag":"Tourism",
+                        "Sentence":"The degradation of natural landmarks, which is due to uncontrolled tourism, has prompted calls for stricter regulations"
+                    }
+
+                ]
+            },
+
+            {
+                "Structure":"[Effect] is due to [Gerund].",
+                "Use":"To focus on the action or process causing the effect",
+                "Example":[
+                    {
+                        "Sentence":"The success of the project is due to implementing innovative strategies"
+                    }
+                ]
+            },
+            {
+                "Structure":"The primary reason for [Effect] is due to [Cause]",
+                
+                "Example":[
+                    {
+                        "Sentence":"The primary reason for the economic downturn is due to a decline in consumer spending"
+                    }
+                ]
+            },
+            {
+                "Structure":"[Effect] is largely/mainly due to [Cause]",
+                
+                "Example":[
+                    {
+                        "Sentence":"The success of the campaign is largely due to effective marketing strategies"
+                    }
+                ]
+            },
+            {
+                "Structure":" [Effect] is more/less due to [Cause] than [Other Cause]",
+                "Use":"To compare the significance of different causes",
+                "Example":[
+                    {
+                        "Sentence":"The increase in life expectancy is more due to advances in healthcare than improvements in lifestyle."
+                    }
+                ]
+            },
+            {
+                "Structure":"[Effect] is not only due to [Cause 1] but also [Cause 2].",
+                "Use":"To show multiple causes contributing to an effect",
+                "Example":[
+                    {
+                        "Sentence":"Climate change is not only due to industrial pollution but also deforestation"
+                    }
+                ]
+            },
+            {
+                "Structure":" In conclusion, [Effect] is primarily due to [Cause]",
+                "Use":"To summarize your argument effectively.",
+                "Example":[
+                    {
+                        "Sentence":" In conclusion, the widening wealth gap is primarily due to unequal access to education and job opportunities"
+                    }
+                ]
+            }
+
+        ]
+    },
+    {
+        "Word":"The primary concern... is that...",
+        "Example":"The primary concern about the increasing use of automation is that it could lead to widespread unemployment. While automation improves efficiency and reduces costs, it also replaces human workers in various industries, which could result in economic instability. Therefore, governments must prioritize retraining programs to help workers adapt to the changing job market.",
+        "Total":[
+            {
+                "Structure":"The primary concern [about/of/regarding X] is that [main issue].",
+                "Use":"To introduce the most important issue related to a topic.",
+                "Example":[
+                    {
+                        "Sentence":"The primary concern about climate change is that it poses a significant threat to future generations"
+                    }
+                ]
+            },
+            {
+                "Structure":"The primary concern [about/of/regarding X] is that [main issue], as [explanation]",
+                
+                "Example":[
+                    {
+                        "Sentence":" The primary concern regarding urbanization is that it leads to overcrowding, as cities struggle to accommodate rapidly growing populations."
+                    }
+                ]
+            },
+            {
+                "Structure":"The primary concern [about/of/regarding X] is that [main issue], which [consequence]",
+                "Use":"To emphasize the impact or result of the concern",
+                "Example":[
+                    {
+                        "Sentence":"The primary concern about deforestation is that it destroys natural habitats, which can lead to the extinction of numerous species"
+                    }
+                ]
+            },
+            {
+                "Structure":"While [other issues exist], the primary concern [about/of/regarding X] is that [main issue]",
+                
+                "Example":[
+                    {
+                        "Sentence":"While there are many challenges associated with globalization, the primary concern is that it exacerbates income inequality between nations"
+                    }
+                ]
+            },
+            {
+                "Structure":"The primary concern [about/of/regarding X] is that [main issue]; therefore, [solution]",
+                "Use":"To transition from identifying a problem to proposing a solution",
+                "Example":[
+                    {
+                        "Sentence":" The primary concern regarding plastic waste is that it pollutes oceans and harms marine life; therefore, governments must enforce stricter regulations on single-use plastics"
+                    }
+                ]
+            },
+            {
+                "Structure":"The primary concern for [group/category] is that [main issue]",
+                "Use":"To address the concerns of a specific group or category.",
+                "Example":[
+                    {
+                        "Sentence":"The primary concern for policymakers is that economic growth often comes at the expense of environmental sustainability."
+                    }
+                ]
+            },
+            {
+                "Structure":"The primary concern [about/of/regarding X] is that if [hypothetical situation], then [consequence]",
+                "Use":"To discuss potential future risks",
+                "Example":[
+                    {
+                        "Sentence":"The primary concern about artificial intelligence is that if it is not regulated properly, it could lead to widespread job displacement."
+                    }
+                ]
+            },
+            {
+                "Structure":"The primary concern [about/of/regarding X] is that [main issue], whereas [comparison].",
+                "Use":"To compare two ideas or situations",
+                "Example":[
+                    {
+                        "Sentence":"The primary concern about online education is that it lacks face-to-face interaction, whereas traditional classrooms foster better communication skills."
+                    }
+                ]
+            },
+            {
+                "Structure":"The primary concern [about/of/regarding X] is that [cause], which results in [effect]",
+                "Use":"To explain the cause and effect relationship clearly.",
+                "Example":[
+                    {
+                        "Sentence":"The primary concern about air pollution is that it is caused by industrial emissions, which results in serious health problems for urban populations"
+                    }
+                ]
+            },
+            {
+                "Structure":" In conclusion, the primary concern [about/of/regarding X] is that [main issue], and [final thought].",
+                "Use":"To summarize your argument effectively",
+                "Example":[
+                    {
+                        "Sentence":"In conclusion, the primary concern about social media is that it can negatively impact mental health, and this issue must be addressed through education and awareness"
+                    }
+                ]
+            }
+
+
+        ]
+    },
+    {
+        "Word":"...may have to...",
+        "Total":[
+            {
+                "Structure":" [Subject] may have to [action]",
+                "Use":"To suggest a possible action or solution",
+                "Example":[
+                    {
+                        "Sentence":" Governments may have to implement stricter environmental regulations to combat climate change"
+                    }
+                ]
+            },
+            {
+                "Structure":"[Subject] may have to [action] because/since/due to [reason]",
+                "Use":"To explain why a particular action might be necessary.",
+                "Example":[
+                    {
+                        "Sentence":"Companies may have to adopt remote work policies due to the increasing demand for work-life balance"
+                    }
+                ]
+            },
+            {
+                "Structure":" If [condition], [subject] may have to [action]",
+                "Use":"To discuss actions that depend on specific conditions",
+                "Example":[
+                    {
+                        "Sentence":" If pollution levels continue to rise, cities may have to restrict the use of private vehicles"
+                    }
+                ]
+            },
+            {
+                "Structure":" [Subject] may have to [action], which could [consequence].",
+                "Use":"To highlight the potential outcomes of an action",
+                "Example":[
+                    {
+                        "Sentence":"Schools may have to integrate technology into their curricula, which could improve students' digital literacy"
+                    }
+                ]
+            },
+            {
+                "Structure":"While [alternative idea], [subject] may have to [action]",
+                "Use":"To present a contrasting perspective before suggesting an action",
+                "Example":[
+                    {
+                        "Sentence":"While some argue for traditional teaching methods, educators may have to embrace online learning platforms to keep up with technological advancement"
+                    }
+                ]
+            },
+            {
+                "Structure":"In the event of [hypothetical situation], [subject] may have to [action]",
+                "Use":"To discuss actions that might be necessary in hypothetical situations",
+                "Example":[
+                    {
+                        "Sentence":"In the event of a global economic crisis, governments may have to increase public spending to stimulate growth"
+                    }
+                ]
+            },
+            {
+                "Structure":" To [achieve goal], [subject] may have to [action]",
+                "Use":"To suggest actions that align with specific goals",
+                "Example":[
+                    {
+                        "Sentence":"To reduce traffic congestion, urban planners may have to invest in public transportation systems"
+                    }
+                ]
+            },
+            {
+                "Structure":"[Subject] may have to [action] rather than [alternative action]",
+                "Use":"To compare two possible actions and suggest a preference",
+                "Example":[
+                    {
+                        "Sentence":" Individuals may have to prioritize saving money rather than spending on non-essential items during economic downturns"
+                    }
+                ]
+            },
+            {
+                "Structure":"In the near future, [subject] may have to [action].",
+                "Use":"To discuss actions that might be necessary in the future",
+                "Example":[
+                    {
+                        "Sentence":" In the near future, healthcare systems may have to adapt to the challenges posed by an aging population."
+                    }
+                ]
+            },
+            {
+                "Structure":" In conclusion, [subject] may have to [action] to [achieve goal].",
+                "Use":"To summarize your argument and suggest a final action",
+                "Example":[
+                    {
+                        "Sentence":"In conclusion, governments may have to collaborate internationally to effectively address global issues like climate change"
+                    }
+                ]
+            }
+
+        ]
+    },
+    {
+        "Word":"Joining two ideas",
+        "Total":[
+            {
+                "Structure":" [Idea 1], [subordinating conjunction] [Idea 2]",
+                "Example":[
+                    {
+                        "Sentence":"Although technology has improved communication, it has also led to a decline in face-to-face interactions"
+                    },
+                    {
+                        "Sentence":"Since governments invest heavily in infrastructure, public services often receive less funding"
+                    }
+                ]
+            },
+            {
+                "Structure":"[Idea 1], [coordinating conjunction] [Idea 2]",
+                "Example":[
+                    {
+                        "Sentence":"Renewable energy is sustainable, but it requires significant initial investment"
+                    },
+                    {
+                        "Sentence":"Education empowers individuals, and it drives economic growth."
+                    }
+                ]
+            },
+            {
+                "Structure":" [Idea 1], which/who/that [Idea 2].",
+                "Example":[
+                    {
+                        "Sentence":"Globalization, which has connected economies worldwide, has also increased cultural homogenization"
+                    },
+                    {
+                        "Sentence":"The government, which plays a key role in policymaking, must address income inequality."
+                    }
+                ]
+            },
+            {
+                "Structure":" [Idea 1], [verb+ing/verb+ed] [Idea 2]",
+                "Example":[
+                    {
+                        "Sentence":"Having considered the benefits, many countries are investing in renewable energy"
+                    },
+                    {
+                        "Sentence":"Faced with rising unemployment, governments must create new job opportunities",
+                        "Meaning":"Governments are experiencing a situation where more and more people are losing their jobs. To solve this problem, they need to take action by creating new jobs for people."
+                    }
+                ]
+            },
+            {
+                "Structure":"[Idea 1]; [conjunctive adverb], [Idea 2].",
+                "Use":"however, therefore, moreover, nevertheless, consequently, meanwhile",
+                "Example":[
+                    {
+                        "Sentence":"Technology has improved efficiency; however, it has also led to job displacement."
+                    },
+                    {
+                        "Sentence":"Urbanization boosts economic growth; therefore, governments must plan cities carefully."
+                    }
+                ]
+            },
+            {
+                "Structure":" If [Idea 1], [Idea 2].",
+                "Use":"To discuss possibilities or consequences",
+                "Example":[
+                    {
+                        "Sentence":"If governments prioritize education, society will benefit from a skilled workforce"
+                    },
+                    {
+                        "Sentence":"Unless we address climate change, future generations will face severe consequences."
+                    }
+                ]
+            },
+            {
+                "Structure":"Not only [Idea 1], but also [Idea 2]",
+               "Use":"To emphasize two related ideas",
+                "Example":[
+                    {
+                        "Sentence":"Not only does tourism boost local economies, but it also promotes cultural exchange"
+                    },
+                    {
+                        "Sentence":"Education is not only a fundamental right but also a tool for social development"
+                    }
+                ]
+            },
+            {
+                "Structure":"What [Idea 1] is [Idea 2]",
+               "Use":"To highlight a specific idea.",
+                "Example":[
+                    {
+                        "Sentence":"What governments must prioritize is sustainable development."
+                    },
+                    {
+                        "Sentence":"What is most important is that individuals take responsibility for their actions"
+                    }
+                ]
+            },
+            {
+                "Structure":" [Idea 1], [Idea 2].",
+               "Use":"To provide additional information about an idea",
+                "Example":[
+                    {
+                        "Sentence":"Global warming, a pressing environmental issue, requires immediate action"
+                    },
+                    {
+                        "Sentence":"Education, the cornerstone of development, should be accessible to all"
+                    }
+                ]
+            },
+            {
+                "Structure":"[Idea 1], resulting in/leading to [Idea 2].",
+               "Use":"To explain the relationship between two ideas",
+                "Example":[
+                    {
+                        "Sentence":"Deforestation has increased, resulting in the loss of biodiversity."
+                    },
+                    {
+                        "Sentence":"The rise in automation has led to job displacement in many industries"
+                    }
+                ]
+            }
+        ]
+    }
+    
+
+
+]
