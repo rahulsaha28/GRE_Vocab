@@ -19,63 +19,51 @@
                 "Example":[
                     {
                         "Tag":"Environmental Issues",
-                        "Sentence":[
-                            "The measures made to address deforestation have been largely ineffective, as illegal logging continues to devastate forests worldwide"
-                        ]
+                        "Sentence":"The measures made to address deforestation have been largely ineffective, as illegal logging continues to devastate forests worldwide"
+                        
                     },
                     {
                         "Tag":"Healthcare",
-                        "Sentence":[
-                            "Efforts made to address the shortage of medical professionals in rural areas have not yet yielded significant results."
-                        ]
+                        "Sentence":"Efforts made to address the shortage of medical professionals in rural areas have not yet yielded significant results."
+        
                     },
                     {
                         "Tag":"Education",
-                        "Sentence":[
-                            "The initiatives made to address the digital divide in education during the pandemic were commendable but insufficient."
-                        ]
+                        "Sentence":"The initiatives made to address the digital divide in education during the pandemic were commendable but insufficient."
+                                            
                     },
                     {
                         "Tag":"Economic Inequality",
-                        "Sentence":[
-                            "Policies made to address income inequality often fail to target the root causes of the problem."
-                        ]
+                        "Sentence":"Policies made to address income inequality often fail to target the root causes of the problem."
+                        
                     },
                     {
                         "Tag":"Climate Change",
-                        "Sentence":[
-                            "Global efforts made to address climate change, such as the Paris Agreement, are a step in the right direction but require stricter enforcement."
-                        ]
+                        "Sentence":"Global efforts made to address climate change, such as the Paris Agreement, are a step in the right direction but require stricter enforcement."
+                        
                     },
                     {
                         "Tag":"Unemployment",
-                        "Sentence":[
-                            "The programs made to address youth unemployment have not been able to keep up with the rapidly changing job market."
-                        ]
+                        "Sentence": "The programs made to address youth unemployment have not been able to keep up with the rapidly changing job market."
                     },
                     {
                         "Tag":"Public Transportation",
-                        "Sentence":[
-                            "Investments made to address the inefficiencies in public transportation systems have significantly improved urban mobility."
-                        ]
+                        "Sentence":"Investments made to address the inefficiencies in public transportation systems have significantly improved urban mobility."
+                        
                     },
                     {
                         "Tag":"Gender Inequality",
-                        "Sentence":[
-                            "The campaigns made to address gender inequality in the workplace have led to some progress, but the gender pay gap remains a persistent issue."
-                        ]
+                        "Sentence": "The campaigns made to address gender inequality in the workplace have led to some progress, but the gender pay gap remains a persistent issue."
+                        
                     },
                     {
                         "Tag":"Homelessness",
-                        "Sentence":[
-                            "The strategies made to address homelessness in urban areas often focus on short-term solutions rather than long-term housing stability."
-                        ]
+                        "Sentence":"The strategies made to address homelessness in urban areas often focus on short-term solutions rather than long-term housing stability."
                     },
                     {
                         "Tag":"Crime Prevention",
-                        "Sentence":[
-                            "The measures made to address rising crime rates in cities have included increased police presence and community outreach programs."
-                        ]
+                        "Sentence":"The measures made to address rising crime rates in cities have included increased police presence and community outreach programs."
+                        
                     }
 
                 ]
