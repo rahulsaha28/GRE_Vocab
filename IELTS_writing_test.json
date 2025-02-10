@@ -766,6 +766,164 @@
                 ]
             }
         ]
+    },
+    {
+        "Word":"... in order to be ...",
+        "Total":[
+            {
+                "Structure":" [Action/Requirement] in order to be [Desired Outcome/Status].",
+                "Use":"To explain what is needed to achieve a specific goal or status.",
+                "Example":[
+                    {
+                        "Sentence":"Governments must invest in education in order to be competitive in the global economy."
+                    }
+                ]
+            },
+            {
+                "Structure":" [Action/Requirement] in order to be [Desired Outcome/Status], as [Explanation]",
+                "Use":"To provide additional reasoning for the requirement",
+                "Example":[
+                    {
+                        "Sentence":"Individuals must adopt sustainable habits in order to be environmentally responsible, as this helps reduce their carbon footprint."
+                    }
+                ]
+            },
+            {
+                "Structure":" [Action/Requirement] in order to be [Desired Outcome/Status], which [Consequence].",
+                
+                "Example":[
+                    {
+                        "Sentence":"Companies must innovate constantly in order to be market leaders, which ensures long-term profitability."
+                    }
+                ]
+            },
+            {
+                "Structure":"While [Alternative Idea], [Action/Requirement] in order to be [Desired Outcome/Status]",
+                "Use":" To contrast two ideas while emphasizing the necessity of one.",
+                "Example":[
+                    {
+                        "Sentence":"While some argue for traditional teaching methods, educators must embrace technology in order to be effective in modern classrooms."
+                    }
+                ]
+            },
+            {
+                "Structure":" If [Condition], [Action/Requirement] in order to be [Desired Outcome/Status]",
+                "Use":"To discuss what is needed in a hypothetical situation",
+                "Example":[
+                    {
+                        "Sentence":"If countries want to reduce pollution, they must transition to renewable energy sources in order to be sustainable"
+                    }
+                ]
+            },
+            {
+                "Structure":"[Action/Requirement] in order to be [Desired Outcome/Status]; therefore, [Solution].",
+                "Use":"To suggest a solution based on a requirement",
+                "Example":[
+                    {
+                        "Sentence":" Students must develop critical thinking skills in order to be successful in the workforce; therefore, schools should focus on problem-based learning"
+                    }
+                ]
+            },
+            {
+                "Structure":"[Action/Requirement] in order to be [Desired Outcome/Status], whereas [Comparison].",
+                "Use":"To compare two different approaches or outcomes.",
+                "Example":[
+                    {
+                        "Sentence":"Governments must prioritize healthcare in order to be socially responsible, whereas neglecting it could lead to public health crises"
+                    }
+                ]
+            },
+            {
+                "Structure":" In the future, [Action/Requirement] in order to be [Desired Outcome/Status].",
+                "Use":"To discuss future requirements or goals",
+                "Example":[
+                    {
+                        "Sentence":"In the future, cities must adopt smart technologies in order to be efficient and sustainable."
+                    }
+                ]
+            },
+            {
+                "Structure":" [Action/Requirement] is essential in order to be [Desired Outcome/Status].",
+                "Use":"To make a general statement about what is needed.",
+                "Example":[
+                    {
+                        "Sentence":"Transparency is essential in order to be a trustworthy organization."
+                    }
+                ]
+            },
+            {
+                "Structure":" In conclusion, [Action/Requirement] in order to be [Desired Outcome/Status], and [Final Thought].",
+                "Use":"To summarize your argument effectively",
+                "Example":[
+                    {
+                        "Sentence":" In conclusion, individuals must take responsibility for their actions in order to be environmentally conscious, and this requires a shift in mindset and habits."
+                    }
+                ]
+            }
+
+        ]
+    },
+    {
+        "Word":"...to turn their... into... , ...",
+        "Total":[
+            {
+                "Structure": "to turn their [noun] into [noun/verb phrase], [additional detail or reason]",
+                "Use":" the cause and the resulting effect, while also adding more details or reasons for that transformation",
+                "Example":[
+                    {
+                        "Sentence":"Governments should adopt green energy policies to turn their cities into environmentally friendly places, reducing pollution and improving citizens’ health"   
+                    },
+                    {
+                        "Sentence":"Educational reforms are necessary to turn their schools into centers of innovation, fostering creativity and preparing students for future challenges."
+                    },
+                    {
+                        "Sentence":"Countries should focus on technology to turn their economies into global leaders, increasing competitiveness and attracting international investment"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Word":"...to keep...",
+        "Total":[
+            {
+                "Structure":"",
+                "Example":[
+                    {
+                        "Sentence":"Governments implement strict environmental policies to keep pollution levels under control and ensure a sustainable future for the next generation."
+                    },
+                    {
+                        "Sentence":"Schools should encourage extracurricular activities to keep students engaged and motivated, which can lead to better academic performance."
+                    },
+                    {
+                        "Sentence":"It is essential for individuals to maintain a healthy work-life balance to keep stress levels manageable and prevent burnout."
+                    },
+                    {
+                        "Sentence":"Companies often invest in employee training programs to keep their workforce skilled and competitive in the global market."
+                    },
+                    {
+                        "Tag":"Preventing Negative Outcomes",
+                        "Sentence":"Strict laws are necessary to keep crime rates from rising in urban areas, ensuring the safety of citizens."
+                    },
+                    {
+                        "Tag":"Preventing Negative Outcomes",
+                        "Sentence":"Parents should monitor their children’s screen time to keep them from developing unhealthy habits, such as addiction to social media or video games."
+                    },
+                    {
+                        "Sentence":"Public transportation systems must be regularly upgraded to keep up with the growing demands of urban populations."
+                    },
+                    {
+                        "Sentence":"Governments should invest in renewable energy sources to keep pace [=Step or Stride] with the global shift toward sustainability."
+                    },
+                    {
+                        "Sentence":"If individuals want to maintain their physical health, they need to exercise regularly to keep their bodies in good condition."
+                    },
+                    {
+                        "Sentence":"To avoid economic instability, countries must diversify their industries to keep their economies resilient[=ability to recover quickly from difficulties] during global crises."
+                    }
+                ]
+            }
+        ]
     }
     
 
