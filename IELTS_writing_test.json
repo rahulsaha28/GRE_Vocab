@@ -924,6 +924,96 @@
                 ]
             }
         ]
+    },
+    {
+        "Word":"...turn down...",
+        "Meaning":["To refuse or reject something (e.g., an offer, request, or opportunity)."],
+        "Total":[
+            {
+                "Structure":"Subject + turn down + object",
+                
+                "Example":[
+                    {
+                        "Sentence":"Some people argue that individuals should never turn down a job offer, even if it does not match their interests. However, I believe that accepting a job solely for financial reasons can lead to dissatisfaction in the long term"
+
+                    },
+                    {
+                        "Sentence":"Governments often turn down proposals for environmental reforms due to economic concerns, but this short-term thinking can have devastating consequences for future generations."
+                    },
+                    {
+                        "Sentence":"In some cultures, young people are expected to turn down opportunities abroad to stay close to their families, which can limit their personal and professional growth."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Word":"...not for... but for...",
+        "Total":[
+            {
+                "Structure":" [Subject] is not for [purpose 1] but for [purpose 2]",
+                "Use":"To clarify the true purpose of something.",
+                "Example":[
+                    {
+                        "Sentence":"Education is not for memorizing facts but for developing critical thinking skills."
+                    }
+                ]
+            },
+            {
+                "Structure":" [Subject] is not for [purpose 1], as [explanation], but for [purpose 2].",
+                "Use":"To provide additional context or reasoning for the contrast.",
+                "Example":[
+                    {
+                        "Sentence":" Technology is not for replacing human interaction, as some fear, but for enhancing communication and productivity."
+                    }
+                ]
+            },
+            {
+                "Structure":"[Subject] is not for [purpose 1] but for [purpose 2], which [consequence].",
+                "Use":"To explain the impact of the true purpose.",
+                "Example":[
+                    {
+                        "Sentence":" Punishment is not for revenge but for rehabilitation, which helps reduce recidivism rates."
+                    }
+                ]
+            },
+            {
+                "Structure":" [Subject] is not for [purpose 1] but for [purpose 2]; therefore, [solution].",
+                
+                "Example":[
+                    {
+                        "Sentence":" Public parks are not for commercial development but for community recreation; therefore, governments must protect them from urbanization."
+                    }
+                ]
+            },
+            {
+                "Structure":" If [subject] is not for [purpose 1] but for [purpose 2], then [implication]",
+                
+                "Example":[
+                    {
+                        "Sentence":" If technology is not for replacing jobs but for improving efficiency, then governments must focus on retraining workers for new roles."
+                    }
+                ]
+            },
+            {
+                "Structure":"[Subject] is often seen as [purpose 1], but it is not for [purpose 1] but for [purpose 2].",
+                
+                "Example":[
+                    {
+                        "Sentence":"Social media is often seen as a platform for entertainment, but it is not for entertainment but for fostering global connections and sharing knowledge."
+                    }
+                ]
+            },
+            {
+                "Structure":" In conclusion, [subject] is not for [purpose 1] but for [purpose 2], and [final thought].",
+                "Use": "To summarize your argument and emphasize the true purpose.",
+                "Example":[
+                    {
+                        "Sentence":"In conclusion, education is not for rote learning but for empowering individuals to think critically and solve problems, and this must be reflected in modern teaching methods."
+                    }
+                ]
+            }
+        ]
     }
     
 
