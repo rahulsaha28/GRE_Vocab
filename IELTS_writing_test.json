@@ -1014,6 +1014,26 @@
                 ]
             }
         ]
+    },
+    {
+       "Word":"It cannot be disputed that ...is experiencing....",
+       "Total":[
+        {
+            "Structure":"It cannot be disputed[=To argue or disagree about something] that [subject] is experiencing [change/trend/issue]",
+            "Use":"You can use this structure to introduce a general trend or issue related to the topic",
+            "Example":[
+                {
+                    "Sentence":"It cannot be disputed that the world is experiencing rapid technological advancements, which are transforming the way we live and work."
+                },
+                {
+                    "Sentence":"It cannot be disputed that urbanization is experiencing unprecedented[=something that has never happened before] growth, leading to both opportunities and challenges for modern societies"
+                },
+                {
+                    "Sentence":"It cannot be disputed that the environment is experiencing significant degradation[=reduced in quality] due to human activities"
+                }
+            ]
+        }
+       ] 
     }
     
 
