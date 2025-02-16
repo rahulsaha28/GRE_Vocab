@@ -1034,6 +1034,144 @@
             ]
         }
        ] 
+    },
+    {
+        "Word":" if ...is done to tackle.... , .... will face devastrating consequence ......",
+        "Total":[
+            {
+                "Structure":"If + [subject] + is done to tackle + [issue], + [subject] + will face devastating consequences.",
+                "Example":[
+                    {
+                        "Sentence":"If strict censorship is done to tackle the spread of misinformation, society will face devastating consequences, such as the erosion of freedom of expression and the suppression of dissenting voices."
+                    },
+                    {
+                        "Sentence":"If deforestation is done to tackle the demand for agricultural land, the ecosystem will face devastating consequences, including the loss of biodiversity and increased global warming."
+                    },
+                    {
+                        "Sentence":"If standardized testing is done to tackle the issue of academic performance, students will face devastating consequences, such as increased stress and a lack of creativity in learning."
+
+                    },
+                    {
+                        "Sentence":"If excessive surveillance[=close observation or monitoring] is done to tackle cybersecurity threats, individuals will face devastating consequences, including the invasion[=attack] of privacy and the potential for abuse of power."
+                    }
+                ]
+            },
+            {
+                "Structure":"If + [subject] + is implemented to address + [issue], + [subject] + could experience devastating effects.",
+                "Example":[
+                    {
+                        "Sentence":" If a sugar tax is implemented to address obesity, the food industry could experience devastating effects, including job losses and reduced profits."
+                    }
+                    
+                ]
+            },
+            {
+                "Structure":"Should + [subject] + be used to tackle + [issue], + [subject] + may suffer irreversible damage.",
+                "Example":[
+                    {
+                        "Sentence":"Should deforestation be used to tackle housing shortages, the environment may suffer irreversible damage."
+                    }
+                    
+                ]
+            },
+            {
+                "Structure":"Unless + [subject] + is carefully managed to address + [issue], + [subject] + will inevitably face devastating consequences.",
+                "Example":[
+                    {
+                        "Sentence":"Unless urban planning is carefully managed to address population growth, cities will inevitably face devastating consequences, such as overcrowding and pollution"
+                    }
+                    
+                ]
+            }
+
+
+        ]
+    },
+    {
+        "Word":" I strongly fell that....need to make...to deal with this pressing problem",
+        "Total":[
+            {
+                "Structure":"I strongly feel that + [subject] + need(s) to make + [specific action/change] + to deal with this pressing problem.",
+                "Example":[
+                    {
+                        "Sentence":"I strongly feel that governments need to make significant investments in renewable energy to deal with this pressing problem of climate change."
+
+
+                    },
+                    {
+                        "Sentence":"I strongly feel that schools need to make mental health support a priority to deal with this pressing problem of student stress and anxiety."
+                    },
+                    {
+                        "Sentence":"I strongly feel that individuals need to make lifestyle changes, such as reducing plastic consumption, to deal with this pressing problem of environmental degradation."
+                    },
+                    {
+                        "Sentence":"I strongly feel that healthcare systems need to make preventive care more accessible to deal with this pressing problem of rising chronic diseases."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Word":"Nevertheless,...",
+        "Total":[
+            {
+                "Structure":"....",
+                "Example":[
+                    {
+                        "Sentence":"Nevertheless, it necessitates sustained and concerted efforts from individuals, whether acting independently or as part of organized advocacy groups, to hold policymakers accountable and drive meaningful change.",
+                        "Meaning":"This sentence emphasizes that, despite a previous point, ongoing pressure from citizens (individually or in groups) is necessary to influence leaders and achieve a specific goal."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Word":"it must also be acknowledge that....",
+        "Total":[
+            {
+                "Example":[
+                    {
+                        "Sentence":"It must also be acknowledged that without the active involvement of both governments and citizens, any efforts to address pressing global challenges, such as climate change or social inequality, are likely to fall short of achieving meaningful and lasting impact."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Word":"Although...seem minor, the cumulative effect...would be enormous.",
+        "Total":[
+            {
+                "Example":[
+                    {
+                        "Sentence":"Although individual actions, such as reducing plastic consumption or using public transportation, may seem minor, the cumulative effect of widespread adoption of these practices would be enormous, potentially leading to significant reductions in environmental degradation and carbon emissions."
+                    },
+                    {
+                        "Sentence":"Although small changes in daily habits, such as recycling or conserving energy, may seem insignificant, the cumulative effect of millions of people adopting these practices would be transformative, drastically reducing waste and resource consumption."
+                    },
+                    {
+                        "Sentence":"Although individual efforts to reduce meat consumption or plant trees might appear trivial, the cumulative effect of such actions on a global scale would be profound, helping to combat deforestation and climate change."
+                    },
+                    {
+                        "Sentence":"Although initiatives like carpooling or using reusable bags may seem like minor adjustments, the cumulative effect of their widespread implementation would be substantial, significantly lowering pollution levels"
+                    },
+                    {
+                        "Sentence":"Although personal choices, such as opting[=choose to live/do] for sustainable products or minimizing water usage, may seem inconsequential, the cumulative effect of collective action would be monumental, preserving natural resources for future generations."
+                    },
+                    {
+                        "Sentence":"Although individual contributions to renewable energy adoption, such as installing solar panels, may seem limited, the cumulative effect of such measures would be game-changing, accelerating the transition to a low-carbon economy."
+                    },
+                    {
+                        "Sentence":"Although steps like reducing food waste or supporting local farmers may seem negligible, the cumulative effect of these practices would be immense, promoting food security and reducing greenhouse gas emissions"
+                    },
+                    {
+                        "Sentence":"Although individual participation in conservation efforts, such as protecting wildlife or restoring ecosystems, may seem small, the cumulative effect of such endeavors[=effort to achieve a goal/purpose] would be extraordinary, safeguarding biodiversity for future generations."
+                    },
+                    {
+                        "Sentence":"Although personal commitments to sustainable living, such as composting or reducing electricity usage, may seem modest, the cumulative effect of widespread behavioral change would be revolutionary, paving[=to make something easier or possible] the way for a greener planet."
+                    }
+                ]
+            }
+        ]
     }
     
 
