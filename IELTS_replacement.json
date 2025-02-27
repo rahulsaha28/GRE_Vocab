@@ -1,0 +1,648 @@
+[
+    {
+        "Word":"am/is/are",
+        "Total":[
+            {
+                "Replace":"remain",
+                "Meaning":"continue to exist",
+                "Example":[
+                    {
+                        "Sentence":"Climate change remains a threat to humanity"
+                    },
+                    {
+                        "Sentence":"I remain confident that technology will improve our lives",
+                        "Instead of":"I am confident that technology will improve our lives"
+                    },
+                    {
+                        "Sentence":"Education remains a key factor in reducing poverty"
+                    }
+                ]
+            },
+            {
+                "Replace":"leverage",
+                "Meaning":"using something to its maximum advantage or utilizing resources effectively to achieve a goal",
+                "Example":[
+                    {
+                        "Sentence":"Schools can leverage digital tools to enhance the learning experience and engage students more effectively"
+                    },
+                    {
+                        "Sentence":"Developing countries should leverage their natural resources to boost economic growth and reduce poverty."
+                    },
+                    {
+                        "Sentence":"Governments should leverage public health campaigns to promote healthier lifestyles and reduce the prevalence of chronic diseases"
+                    },
+                    {
+                        "Sentence":"Countries with abundant sunlight should leverage solar energy to reduce their dependence on fossil fuels"
+                    },
+                    {
+                        "Sentence":"City planners must leverage available space efficiently to accommodate growing populations without compromising quality of life"
+                    },
+                    {
+                        "Sentence":"Nations should leverage international partnerships to address global challenges such as climate change and poverty"
+                    },
+                    {
+                        "Sentence":"Social media platforms can be leveraged to foster global communication and cultural exchange"
+                    },
+                    {
+                        "Sentence":"Governments must leverage taxation policies to reduce the wealth gap and ensure fair distribution of resource"
+                    },
+                    {
+                        "Sentence":"Teachers should leverage interactive teaching methods to make lessons more engaging and effective"
+                    }
+                ]
+            },
+            {
+                "Replace":"stands as",
+                "Example":[
+                    {
+                        "Sentnece":"Sustainable development stands for meeting the needs of the present without compromising the ability of future generations to meet their own needs"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Word":"add",
+        "Total":[
+            {
+                "Replace":"integrate"
+            }
+        ]
+    },
+    {
+        "Word":"benefit",
+        "Total":[
+            {
+                "Replace":"amenities"
+            }
+        ]
+    },
+    {
+        "Word":"develop",
+        "Total":[
+            {
+                "Replace":"Advancement"
+            },
+            {
+                "Replace":"to enhance",
+                "Example":[
+                    {
+                        "Sentence":"Schools should integrate technology into their teaching methods to enhance students' learning experiences"
+                    },
+                    {
+                        "Sentence":"Governments should invest in renewable energy projects to enhance sustainability and reduce carbon emissions"
+                    },
+                    {
+                        "Sentence":"Providing employees with training opportunities can enhance their skills and boost overall productivity."
+                    },
+                    {
+                        "Sentence":"Developing tourist amenities, such as hotels and cultural attractions, can enhance a country's appeal to international visitors"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Word":"system",
+        "Total":[
+            {
+                "Replace":"measures"
+            }
+        ]
+    },
+    {
+        "Word":"made with",
+        "Total":[
+            {
+                "Replace":"embraced",
+                "Meaning":"adopted  or accept",
+                "Example":[
+                    {
+                        "Sentence":"Governments should embrace renewable energy sources to combat climate change effectively"
+                    },
+                    {
+                        "Sentence":"Educational institutions must embrace technology to enhance the learning experience for students"
+                    },
+                    {
+                        "Sentence":"To build a sustainable future, businesses must embrace environmentally friendly practices"
+                    },
+                    {
+                        "Sentence":"Societies that embrace cultural diversity tend to be more innovative and progressive."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Word":"try to solved a difficult problem",
+        "Total":[
+            {
+                "Replace":"grapple with",
+                "Example":[
+                    {
+                        "Sentence":"Governments around the world are grappling with the challenge of balancing economic growth and environmental sustainability."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Word":"rapidly increasing",
+        "Total":[
+            {
+                "Replace":"accelerating"
+            }
+        ]
+    },
+    {
+        "Word":"depend on",
+        "Total":[
+            {
+                "Replace":"Hinge on",
+                "Example":[
+                    {
+                        "Sentence":"A country's economic growth may hinge on its ability to attract foreign investment and foster innovation."
+                    }
+                ]
+            },
+            {
+                "Replace":"adopt"
+            }
+        ]
+    },
+    {
+        "Word":"Smart infrastructure",
+        "Total":[
+            {
+                "Replace":"Sustainable infrastructure"
+            }
+        ]
+    },
+    {
+        "Word":"Environmental balance",
+        "Total":[
+            {
+                "Replace":"environmental harmony"
+            }
+        ]
+    },
+    {
+        "Word":"innovation technology",
+        "Total":[
+            {
+                "Replace":"tech-driven strategies"
+            }
+        ]
+    },
+    {
+        "Word":"Urban area",
+        "Total":[
+            {
+                "Replace":"urban landscapes"
+            },
+            {
+                "Replace":"global landscapes"
+            }
+        ]
+    },
+    {
+        "Word":"essential element",
+        "Total":[
+            {
+                "Replace":"Key aspect....include",
+                "Example":[
+                    {
+                        "Sentence":"The key aspects of a successful education system include qualified teachers, a well-designed curriculum, and access to modern resources"
+                    },
+                    {
+                        "Sentence":"When addressing climate change, key aspects to consider include reducing greenhouse gas emissions, promoting renewable energy, and protecting natural ecosystems."
+                    },
+                    {
+                        "Sentence":"Key aspects of improving public health include increasing access to healthcare services, promoting healthy lifestyles, and investing in medical research"
+                    },
+                    {
+                        "Sentence":"The key aspects of sustainable urban development include efficient public transportation, affordable housing, and the preservation of green spaces"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Word":"waste management",
+        "Total":[
+            {
+                "Replace":"waste dispossal"
+            }
+        ]
+    },
+    {
+        "Word":"Business relations",
+        "Total":[
+            {
+                "Replace":"trade ties"
+            },
+            {
+                "Replace":"The economic partnership"
+            }
+        ]
+    },
+    {
+        "Word":"day by day",
+        "Total":[
+            {
+                "Replace":"with time"
+            },
+            {
+                "Replace":"with each passing day"
+            }
+        ]
+    },
+    {
+        "Word":"one of the",
+        "Total":[
+            {
+                "Replace":"major"
+            }
+        ]
+
+    },
+    {
+        "Word":"is one of the ",
+        "Total":[
+            {
+                "Replace":"hold a significant position"
+            }
+        ]
+    },
+    {
+        "Word":"import or introducing something new",
+        "Total":[
+            {
+                "Replace":"bring in"
+            }
+        ]
+    },
+    {
+        "Word":"industrial product",
+        "Total":[
+            {
+                "Replace":"Industrial equipment"
+            },
+            {
+                "Replace":"electronic items; leather items/leather accessories"
+            }
+        ]
+
+    },
+    {
+        "Word":"garment product",
+        "Total":[
+            {
+                "Replace":"textile inputs"
+            }
+        ]
+    },
+    {
+        "Word":"When many noun added by comma",
+        "Total":[
+            {
+                "Replace":"includes A, B, C, D,"
+            }
+        ]
+    },
+    {
+        "Word":"consumer goods",
+        "Total":[
+            {
+                "Replace":"household products; agro-products/farm produce"
+            }
+        ]
+    },
+    {
+        "Word":"on the other hand",
+        "Total":[
+            {
+                "Replace":"Conversely"
+            }
+        ]
+    },
+    {
+        "Word":"run by",
+        "Total":[
+            {
+                "Replace":"lead to"
+            },
+            {
+                "Replace":"has enabled"
+            }
+        ]
+    },
+    {
+        "Word":"different infrastucture or various infrastructure",
+        "Total":[
+            {
+                "Replace":"several infrastructure"
+            }
+        ]
+    },
+    {
+        "Word":"Development project",
+        "Total":[
+            {
+                "Replace":"development ventures"
+            }
+        ]
+    },
+    {
+        "Word":"take",
+        "Total":[
+            {
+                "Replace":"has adopted"
+            },
+            {
+                "Replace":"has approved"
+            }
+        ]
+    },
+    {
+        "Word":"plan",
+        "Total":[
+            {
+                "Replace":"a comprehensive plan"
+            }
+        ]
+    },
+    {
+        "Word":"make it importance",
+        "Total":[
+            {
+                "Replace":"focus on"
+            },
+            {
+                "Replace":"emphasizing"
+            },
+            {
+                "Replace":"prioritizing"
+            }
+        ]
+    },
+    {
+        "Word":"poverty reduction",
+        "Total":[
+            {
+                "Replace":"poverty alleviation"
+            },
+            {
+                "Replace":"poverty eradication"
+            },
+            {
+                "Replace":"eliminating poverty"
+            }
+        ]
+    },
+    {
+        "Word":"climate change protect",
+        "Total":[
+            {
+                "Replace":"climate resilience[=ability to recover quickly] / climate change combat"
+            },
+            {
+                "Replace":"climate change mitigation"
+            },
+            {
+                "Replace":"climate action[=take action to reduce climate change]"
+            }
+        ]
+    },
+    {
+        "Word":"peace and security",
+        "Total":[
+            {
+                "Replace":"ensuring peace and security"
+            }
+        ]
+    },
+    {
+        "Word":"Protection of human rights",
+        "Total":[
+            {
+                "Replace":"safeguarding human rights"
+            }
+        ]
+    },
+    {
+        "Word":"has decleared",
+        "Total":[
+            {
+                "Replace":"unveiled"
+            },
+            {
+                "Replace":"has introduced"
+            },
+            {
+                "Replace":"has announced"
+            }
+        ]
+    },
+    {
+        "Word":"step",
+       "Total":[
+        {
+            "Replace":"effective measures"
+        }
+        
+       ] 
+    },
+    {
+        "Word":"Fixed-expression",
+        "Total":[
+            {
+                "Replace":"to combat global poverty"
+            },
+            {
+                "Replace":"to achieve a hunger free world"
+            },
+            {
+                "Replace":"prolonged droughts"
+            },
+            {
+                "Replace":"Glaciers to melt"
+            }
+        ]
+    },
+    {
+        "Word":"bad effect of climate change",
+        "Total":[
+            {
+                "Replace":"adverse effect of climate change"
+            }
+        ]
+    },
+    {
+        "Word":"it should be prioritized",
+        "Total":[
+            {
+                "Replace":"priority should be given"
+            },
+            {
+                "Replace":"Emphasis will be placed"
+            }
+        ]
+    },
+    {
+        "Word":"create or come out",
+        "Total":[
+            {
+                "Replace":"emerge"
+            },
+            {
+                "Replace":"surface",
+                "Example":[
+                    {
+                        "Sentence":"Many social issues, such as inequality and discrimination, have surfaced in recent years due to increased awareness"
+                    }
+                ]
+            },
+            {
+                "Replace":"stand as",
+                "Example":[
+                    {
+                        "Sentence":"Public education systems stand as a cornerstone of modern society, ensuring equal opportunities for all"
+                    },
+                    {
+                        "Sentence":"The Great Wall of China stands as a testament[=evidence] to the ingenuity[=ingenuity] and determination of ancient civilizations"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Word":"deep / big / important",
+        "Total":[
+            {
+                "Replace":"significant"
+            },
+            {
+                "Replace":"Rampant"
+            },
+            {
+                "Replace":"profoundly"
+            },
+            {
+                "Replace":"Severe"
+            }
+        ]
+    },
+    {
+        "Word":"Crisis",
+        "Total":[
+            {
+                "Replace":"urgent issue"
+            }
+           
+        ]
+    },
+    {
+        "Word":"destroy",
+        "Total":[
+            {
+                "Replace":"are disrupting"
+            },
+            {
+                "Replace":"profoundly disturbed"
+            }
+        ]
+    },
+    {
+        "Word":"use",
+        "Total":[
+            {
+                "Replace":"consumption",
+                "Example":[
+                    {
+                        "Sentence":"Reducing energy consumption is essential for combating climate change and ensuring a sustainable future"
+                    },
+                    {
+                        "Sentence":"The excessive consumption of natural resources is one of the leading causes of environmental degradation"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Word":"industrial growth",
+        "Total":[
+            {
+                "Replace":"industrial activities"
+            }
+        ]
+    },
+    {
+        "Word":"as a result",
+        "Total":[
+            {
+                "Replace":"as a consequence"
+            }
+        ]
+    },
+    {
+        "Word":"increase",
+        "Total":[
+            {
+                "Replace":"enhance"
+            },
+            {
+                "Replace":"soar",
+                "Example":[
+                    {
+                        "Sentence":"Soaring levels of carbon emissions are a major contributor to global warming and climate change"
+                    },
+                    {
+                        "Sentence":"The soaring popularity of electric vehicles reflects a growing awareness of environmental issues among consumers[=buyer]."
+                    },
+                    {
+                        "Sentence":"The soaring prices of essential goods have made it difficult for low-income families to meet their basic needs"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Word":"Structure",
+        "Total":[
+            {
+                "Replace":"result in",
+                "Structure":"[Action/Event/Situation] + result in + [Outcome/Effect]",
+                "Example":[
+                    {
+                        "Sentence":"A sedentary lifestyle and poor diet can result in serious health problems, such as obesity and heart disease"
+                    },
+                    {
+                        "Sentence":"Rapid urbanization without proper planning can result in overcrowding and inadequate infrastructure"
+                    },
+                    {
+                        "Sentence":"The widespread use of social media has resulted in growing concerns about data privacy and security."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Word":"effect",
+        "Total":[
+            {
+                "Replace":"impact",
+                "Example":[
+                    {
+                        "Sentence":"The impact of fast food consumption on public health cannot be ignored, as it contributes to rising obesity rates"
+                    },
+                    {
+                        "Sentence":"Globalization has had a significant impact on local cultures, often leading to the loss of traditional practices"
+                    }
+                ]
+            }
+        ]
+    }
+    
+
+]
