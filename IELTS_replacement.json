@@ -58,6 +58,31 @@
                         "Sentnece":"Sustainable development stands for meeting the needs of the present without compromising the ability of future generations to meet their own needs"
                     }
                 ]
+            },
+            {
+                "Replace":"struggle with",
+                "Example":[
+                    {
+                        "Sentnece":"Low-income families often struggle with the rising cost of living, making it difficult to afford basic necessities"
+                    },
+                    {
+                        "Sentnece":"Older generations sometimes struggle with adapting to new technologies, which can create a digital divide"
+                    }
+                ]
+            },
+            {
+                "Replace":"Struggle to",
+                "Example":[
+                    {
+                        "Sentence":"Many people struggle to maintain a healthy diet because of their busy lifestyles"
+                    },
+                    {
+                        "Sentence":"Students in rural areas often struggle to access quality education due to a lack of resources"
+                    },
+                    {
+                        "Sentence":"Developing countries struggle to implement renewable energy solutions due to financial constraints"
+                    }
+                ]
             }
         ]
     },
@@ -167,6 +192,17 @@
             },
             {
                 "Replace":"adopt"
+            },
+            {
+                "Replace":"rely on",
+                "Example":[
+                    {
+                        "Sentence":"In the past, many economies relied heavily on manufacturing industries, but today, the service sector plays a more significant role"
+                    },
+                    {
+                        "Sentence":"Traditional farming methods relied on natural rainfall, but modern agriculture often depends on irrigation systems"
+                    }
+                ]
             }
         ]
     },
@@ -467,6 +503,31 @@
             },
             {
                 "Replace":"Glaciers to melt"
+            },
+            {
+                "Replace":"economic stability / economic prosperity[=success] / economic progress"
+            },
+            {
+                "Replace":"yourth oppertunities"
+            },
+            {
+                "Replace":"uncertain job market"
+            },
+            {
+                "Replace":"financial constraints"
+            },
+            {
+                "Replace":"job prospect[=oppertunities]"
+            },
+            {
+                "Replace":"has not kept pace"
+
+            },
+            {
+                "Replace":"has lagged behind"
+            },
+            {
+                "Replace":"devastating consequences"
             }
         ]
     },
@@ -511,6 +572,34 @@
                     },
                     {
                         "Sentence":"The Great Wall of China stands as a testament[=evidence] to the ingenuity[=ingenuity] and determination of ancient civilizations"
+                    }
+                ]
+            },
+            {
+                "Replace":"pave the way/path; paving",
+                "Meaning":"Make Something Easier or To Prepare or Smooth the Path",
+                "Example":[
+                    {
+                        "Sentence":"The invention of the internet paved the way for a global revolution in communication and information sharing."
+                    },
+                    {
+                        "Sentence":"The civil rights movement paved the way for greater equality and justice in many parts of the world"
+
+                    },
+                    {
+                        "Sentence":"Investing in renewable energy technologies will pave the path toward a more sustainable future."
+                    }
+                ]
+            },
+            {
+                "Replace":"fueling the silent crisis",
+                "Meaning":"Causing a silent crisis to develop",
+                "Example":[
+                    {
+                        "Sentence":"The growing gap between public and private education systems is fueling a silent crisis of inequality, limiting opportunities for underprivileged students"
+                    },
+                    {
+                        "Sentence":"The rise of automation and artificial intelligence is fueling a silent crisis of job displacement, particularly in low-skilled industries"
                     }
                 ]
             }
@@ -604,6 +693,53 @@
                         "Sentence":"The soaring prices of essential goods have made it difficult for low-income families to meet their basic needs"
                     }
                 ]
+            },
+            {
+                "Replace":"augmented(v)(adj)",
+                "Example":[
+                    {
+                        "Sentence":"To stay competitive, many businesses have augmented their online presence with e-commerce platforms and digital marketing strategies"
+                    },
+                    {
+                        "Sentence":"Augmented reality technology has the potential to revolutionize education by making learning more interactive and engaging"
+                    }
+                ]
+            },
+            {
+                "Replace":"drive up",
+                "Meaning":"cause something to increase or rise,",
+                "Example":[
+                    {
+                        "Sentence":"The increasing demand for fossil fuels is driving up carbon emissions, exacerbating climate change"
+                    },
+                    {
+                        "Sentence":"The shortage of medical supplies during the pandemic drove up the cost of essential healthcare services"
+                    },
+                    {
+                        "Sentence":"The rising cost of raw materials is driving up the prices of consumer goods, leading to higher inflation."
+                    }
+                ]
+            },
+            {
+                "Replace":"elevate",
+                "Meaning":"raise something to a higher level or degree",
+                "Example":[
+                    {
+                        "Sentence":"The development of artificial intelligence has the potential to elevate productivity across various industries"
+                    },
+                    {
+                        "Sentence":"Planting trees in urban areas can elevate the quality of life by reducing pollution and providing shade."
+                    }
+                ]
+            },
+            {
+                "Replace":"enlarge(v)",
+                "Meaning":"make something larger or more visible",
+                "Example":[
+                    {
+                        "Sentence":"Cities are enlarging their green spaces to improve air quality and provide recreational areas for residents"
+                    }
+                ]
             }
         ]
     },
@@ -642,7 +778,201 @@
                 ]
             }
         ]
+    },
+    {
+        "Word":"little amount",
+        "Total":[
+            {
+                "Replace":"Scant",
+                "Meaning":"very little or limited",
+                "Example":[
+                    {
+                        "Sentence":"In many developing countries, there is scant access to quality education, which hinders economic growth"
+                    },
+                    {
+                        "Sentence":"Despite the urgent need for action, governments have shown scant commitment to addressing climate change"
+                    }
+                ]
+            },
+            {
+                "Replace":"Dwindle",
+                "Meaning":"gradually decrease in size",
+                "Example":[
+                    {
+                        "Sentence":"Natural resources, such as freshwater and fossil fuels, are dwindling due to overconsumption and population growth"
+                    },
+                    {
+                        "Sentence":"Traditional practices and languages are dwindling as younger generations adopt modern lifestyles"
+                    }
+                ]
+            }
+
+        ]
+    },
+    {
+        "Word":"grow or develop",
+        "Total":[
+            {
+                "Replace":"thrive",
+                "Meaning":"succeed vigorously, specially in favorable conditions",
+                "Example":[
+                    {
+                        "Sentence":"Students thrive when they are given opportunities to explore their interests and learn at their own pace[=step]"
+                    },
+                    {
+                        "Sentence":"Innovative startups often thrive in cities with a strong culture of entrepreneurship and access to venture capital."
+                    },
+                    {
+                        "Sentence":"People who maintain a balanced diet and regular exercise routine are more likely to thrive both physically and mentally"
+                    },
+                    {
+                        "Sentence":"Communities thrive when there is a strong sense of cooperation and mutual support among their members"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Word":"cancel",
+        "Total":[
+            {
+                "Replace":"dismantle",
+                "Meaning":"break down or destroy in a way that is destructive"
+            },
+            {
+                "Replace":"deter",
+                "Meaning":"prevent or stop"
+            },
+            {
+                "Replace":"stave off",
+                "Example":[
+                    {
+                        "Sentence":"Governments are implementing stimulus packages to stave off the effects of unemployment during economic downturns."
+                    },
+                    {
+                        "Sentence":"Planting more trees can help stave off the worst effects of climate change by absorbing carbon dioxide."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Word":"hold",
+        "Total":[
+            {
+                "Replace":"retain",
+                "Meaning":"maintain or keep in place",
+                "Example":[
+                    {
+                        "Sentence":"Many indigenous communities strive to retain their traditional customs and languages despite modernization"
+                    },
+                    {
+                        "Sentence":"Effective teaching methods help students retain information better, leading to improved academic performance"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Word":"during or in the middle of",
+        "Total":[
+            {
+                "Replace":"amid",
+                "Example":[
+                    {
+                        "Sentnece":"Amid the shift to online learning, many students have faced challenges such as lack of access to technology and internet connectivity."
+                    },
+                    {
+                        "Sentnece":"Amid political instability, the government has found it difficult to implement long-term policies to address poverty and inequality"
+                    },
+                    {
+                        "Sentnece":"Amid rising global temperatures, many countries are taking steps to reduce their carbon emissions and transition to renewable energy."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Word":"speed",
+        "Total":[
+            {
+                "Replace":"pace(n)(v)",
+                "Example":[
+                    {
+                        "Sentence":"The pace of urbanization in developing countries has created challenges such as overcrowding and pollution"
+                    },
+                    {
+                        "Sentence":"The slow pace of government action on climate change has frustrated environmental activists"
+                    },
+                    {
+                        "Sentence":"The rapid pace of technological change has transformed the way we live and work"
+                    },
+                    {
+                        "Sentence":"The hectic[=frantic] pace of modern work life often leads to stress and burnout."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Word":"at that time",
+        "Total":[
+            {
+                "Replace":"back then"
+            }
+        ]
+    },
+    {
+        "Word":"achieve",
+        "Total":[
+            {
+                "Replace":"pursuit",
+                "Meaning":"attempt to achieve a goal or objective with effort and determination",
+                "Example":[
+                    {
+                        "Sentence":"The pursuit of renewable energy sources is essential for reducing our dependence on fossil fuels and combating climate change."
+                    },
+                    {
+                        "Sentence":"The pursuit of technological advancements has transformed the way we live, work, and communicate"
+                    },
+                    {
+                        "Sentence":"Entrepreneurs often face numerous challenges in their pursuit of success, but perseverance can lead to great achievements"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Word":"advantage/benefit",
+        "Total":[
+            {
+                "Replace":"upside",
+                "Example":[
+                    {
+                        "Sentence":"The upside of using renewable energy sources is the significant reduction in carbon emissions"
+                    },
+                    {
+                        "Sentence":"The upside of online education is that it provides access to learning resources for students in remote areas"
+                    }
+                ]
+            },
+            {
+                "Replace":"downside",
+                "Example":[
+                    {
+                        "Sentence":"The downside of using fossil fuels is the significant environmental damage they cause, including air pollution and climate change"
+                    },
+                    {
+                        "Sentence":"The downside of online education is that it can be challenging for students who lack access to reliable internet or technology."
+                    },
+                    {
+                        "Sentence":"The downside of globalization is that it can lead to job losses in industries that cannot compete with cheaper international labor"
+                    }
+                ]
+            }
+        ]
     }
+
     
 
 ]
