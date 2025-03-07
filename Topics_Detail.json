@@ -350,5 +350,659 @@
                } 
 
         ]
+    },
+    {
+        "Topics":"Social Media",
+        "Subtopics":[
+            {
+                "Word":"Global connectivity",
+                "Type":"Positive",
+                "Meaning":"The ability to connect with people from all over the world",
+                "Example":[
+                    {
+                        "Sentence":"Social media has revolutionized global connectivity, allowing people to communicate across borders"
+                    }
+                ]
+            },
+            {
+                "Word":"Instant communication",
+                "Type":"Positive",
+                "Meaning":"The ability to communicate quickly and easily",
+                "Example":[
+                    {
+                        "Sentence":"Social media enables instant communication, making it easier to stay in touch with friends and family"
+                    }
+                ]
+            },
+            {
+                "Word":"Information sharing",
+                "Type":"Positive",
+                "Meaning":"The exchange of information and ideas",
+                "Example":[
+                    {
+                        "Sentence":"Social media facilitates information sharing, allowing people to learn from each other and stay informed"
+                    },
+                    {
+                        "Sentence":"Social media platforms are powerful tools for information sharing, especially during emergencies"
+                    }
+                ]
+            },
+            {
+                "Word":"Community building",
+                "Type":"Positive",
+                "Meaning":"Creating groups of people with shared interests",
+                "Example":[
+                    {
+                        "Sentence":"Social media fosters community building by connecting like-minded individuals"
+                    }
+                ]
+            },
+            {
+                "Word":"Awareness campaigns",
+                "Type":"Positive",
+                "Meaning":"Promoting awareness about a particular issue",
+                "Example":[
+                    {
+                        "Sentence":"Social media is widely used for awareness campaigns on topics like climate change and mental health"
+                    }
+                ]
+            },
+            {
+                "Word":"Networking opportunities",
+                "Type":"Positive",
+                "Meaning":"hances to meet and connect with professionals.",
+                "Example":[
+                    {
+                        "Sentence":"LinkedIn provides excellent networking opportunities for job seekers and employers"
+                    }
+                ]
+            },
+            {
+                "Word":"Creative expression",
+                "Type":"Positive",
+                "Meaning":"Allowing people to express themselves artistically",
+                "Example":[
+                    {
+                        "Sentence":"Platforms like Instagram and TikTok encourage creative expression through photos and videos"
+                    }
+                ]
+            },
+            {
+                "Word":"Educational resources",
+                "Type":"Positive",
+                "Meaning":"Access to learning materials and knowledge",
+                "Example":[
+                    {
+                        "Sentence":"Social media offers a wealth of educational resources, from tutorials to online courses"
+                    }
+                ]
+            },
+            {
+                "Word":"Crowdfunding",
+                "Type":"Positive",
+                "Meaning":"Raising money from a large number of people online.",
+                "Example":[
+                    {
+                        "Sentence":"Social media has made crowdfunding easier, helping startups and charities raise funds"
+                    }
+                ]
+            },
+            {
+                "Word":"Real-time updates",
+                "Type":"Positive",
+                "Meaning":" Immediate information about events.",
+                "Example":[
+                    {
+                        "Sentence":"Social media provides real-time updates during natural disasters or political events"
+                    }
+                ]
+            },
+            {
+                "Word":"Social activism",
+                "Type":"Positive",
+                "Meaning":"Promoting social change and awareness",
+                "Example":[
+                    {
+                        "Sentence":"Social media has become a powerful platform for social activism, such as the #MeToo movement."
+                    }
+                ]
+            },
+            {
+                "Word":"Brand promotion",
+                "Type":"Positive",
+                "Meaning":"Promoting a brand or product",
+                "Example":[
+                    {
+                        "Sentence":"Social media is an effective tool for brand promotion, allowing companies to reach a wider audience"
+                    }
+                ]
+            },
+            {
+                "Word":"Customer engagement",
+                "Type":"Positive",
+                "Meaning":"Interacting with customers",
+                "Example":[
+                    {
+                        "Sentence":"Companies use social media for customer engagement by responding to comments and messages"
+                    }
+                ]
+            },
+            {
+                "Word":"Cultural exchange",
+                "Type":"Positive",
+                "Meaning":"Sharing and learning about different cultures.",
+                "Example":[
+                    {
+                        "Sentence":"Social media facilitates cultural exchange by connecting people from diverse backgrounds"
+                    }
+                ]
+            },
+            {
+                "Word":"Viral content",
+                "Type":"Positive",
+                "Meaning":"Content that spreads rapidly and widely",
+                "Example":[
+                    {
+                        "Sentence":"Viral content on social media can raise awareness about important issues in a short time"
+                    }
+                ]
+            },
+            {
+                "Word":"Digital marketing",
+                "Type":"Positive",
+                "Meaning":"Promoting a brand or product online",
+                "Example":[
+                    {
+                        "Sentence":"Digital marketing through social media has become essential for businesses."
+                    }
+                ]
+            },
+            {
+                "Word":"Online collaboration",
+                "Type":"Positive",
+                "Meaning":"Working together on projects via the internet",
+                "Example":[
+                    {
+                        "Sentence":"Social media enables online collaboration among teams in different locations"
+                    }
+                ]
+            },
+            {
+                "Word":"Global reach",
+                "Type":"Positive",
+                "Meaning":" The ability to connect with a worldwide audience",
+                "Example":[
+                    {
+                        "Sentence":"Social media gives individuals and businesses global reach, expanding their influence"
+                    }
+                ]
+            },
+            {
+                "Word":"Cyberbullying",
+                "Type":"Negative",
+                "Meaning":"Harassment or bullying online.",
+                "Example":[
+                    {
+                        "Sentence":"Cyberbullying on social media can have severe psychological effects on victims"
+                    }
+                ]
+            },
+            {
+                "Word":"Privacy concerns",
+                "Type":"Negative",
+                "Meaning":"Worries about personal information being misused.",
+                "Example":[
+                    {
+                        "Sentence":"Privacy concerns are a major drawback of using social media platforms"
+                    }
+                ]
+            },
+            {
+                "Word":"Addiction",
+                "Type":"Negative",
+                "Meaning":"Compulsive use of social media",
+                "Example":[
+                    {
+                        "Sentence":"Social media addiction can lead to decreased productivity and mental health issues"
+                    }
+                ]
+            },
+            {
+                "Word":"Misinformation",
+                "Type":"Negative",
+                "Meaning":"False or inaccurate information.",
+                "Example":[
+                    {
+                        "Sentence":"Misinformation  on social media can influence public opinion and cause panic"
+                    }
+                ]
+            },
+            {
+                "Word":"Online harassment",
+                "Type":"Negative",
+                "Meaning":" Abusive behavior directed at individuals online.",
+                "Example":[
+                    {
+                        "Sentence":"Online harassment is a serious issue that affects many social media users"
+                    }
+                ]
+            },
+            {
+                "Word":"Mental health issues",
+                "Type":"Negative",
+                "Meaning":"Problems like anxiety or depression caused by social media use",
+                "Example":[
+                    {
+                        "Sentence":"Excessive use of social media has been linked to mental health issues, especially among teenagers."
+                    }
+                ]
+            },
+            {
+                "Word":"Social comparison",
+                "Type":"Negative",
+                "Meaning":"Comparing oneself to others online.",
+                "Example":[
+                    {
+                        "Sentence":"Social comparison on platforms like Instagram can lead to low self-esteem"
+                    }
+                ]
+            },
+            {
+                "Word":"Data breaches",
+                "Type":"Negative",
+                "Meaning":"Unauthorized access to personal information",
+                "Example":[
+                    {
+                        "Sentence":"Data breaches can lead to significant security vulnerabilities"
+                    }
+                ]
+            },
+            {
+                "Word":"Screen time",
+                "Type":"Negative",
+                "Meaning":"The amount of time spent using devices",
+                "Example":[
+                    {
+                        "Sentence":"Excessive screen time on social media can harm physical health and sleep patterns."
+                    }
+                ]
+            },
+            {
+                "Word":"Echo chambers",
+                "Type":"Negative",
+                "Meaning":"Situations where people only encounter opinions that match their own",
+                "Example":[
+                    {
+                        "Sentence":"Social media often creates echo chambers, limiting exposure to diverse perspectives."
+                    }
+                ]
+            },
+            {
+                "Word":"Digital footprint",
+                "Type":"Negative",
+                "Meaning":"The trail of information left online",
+                "Example":[
+                    {
+                        "Sentence":"A negative digital footprint on social media can harm one’s reputation"
+                    }
+                ]
+            },
+            {
+                "Word":"Exploitation",
+                "Type":"Negative",
+                "Meaning":"Using someone unfairly for personal gain.",
+                "Example":[
+                    {
+                        "Sentence":"Social media exploitation can lead to financial or emotional harm"
+                    }
+                ]
+            },
+            {
+                "Word":"Distraction",
+                "Type":"Negative",
+                "Meaning":"Distracting or diverting attention",
+                "Example":[
+                    {
+                        "Sentence":"Social media is a major distraction for students and professionals."
+                    }
+                ]
+            },
+            {
+                "Word":"Superficial relationships",
+                "Type":"Negative",
+                "Meaning":"Connections that lack depth or meaning",
+                "Example":[
+                    {
+                        "Sentence":"Social media often fosters superficial relationships rather than genuine connections"
+                    }
+                ]
+            }
+           
+        ]
+    },
+    {
+        "Topics":" job creators rather than job seekers",
+        "Subtopics":[
+            {
+                "Word":"Entrepreneurial mindset",
+                "Type":"Positive",
+                "Meaning":"The ability to start and run a business",
+                "Example":[
+                    {
+                        "Sentence":"Encouraging an entrepreneurial mindset in students can lead to job creation and economic growth"
+                    }
+                ]
+            },
+            {
+                "Word":"Startup culture",
+                "Type":"Positive",
+                "Meaning":" An environment that supports new business ventures",
+                "Example":[
+                    {
+                        "Sentence":"Promoting a startup culture in universities can inspire students to become job creators"
+                    }
+                ]
+            },
+            {
+                "Word":"Innovation hubs",
+                "Type":"Positive",
+                "Meaning":"Centers that foster creativity and new ideas.",
+                "Example":[
+                    {
+                        "Sentence":"Innovation hubs provide students with the resources and mentorship needed to launch their own businesses."
+                    }
+                ]
+            },
+            {
+                "Word":"Skill development",
+                "Type":"Positive",
+                "Meaning":"The process of acquiring new abilities",
+                "Example":[
+                    {
+                        "Sentence":"Focusing on skill development can prepare students to create their own job opportunities"
+                    }
+                ]
+            },
+            {
+                "Word":"Self-employment",
+                "Type":"Positive",
+                "Meaning":" Working for oneself rather than an employer.",
+                "Example":[
+                    {
+                        "Sentence":"Self-employment is a viable alternative for students who want to avoid traditional job-seeking"
+                    }
+                ]
+            },
+            {
+                "Word":"Job creation",
+                "Type":"Positive",
+                "Meaning":"The process of generating new employment opportunities.",
+                "Example":[
+                    {
+                        "Sentence":"Entrepreneurship education can lead to job creation by empowering students to start their own businesses"
+                    }
+                ]
+            },
+            {
+                "Word":"Creative thinking",
+                "Type":"Positive",
+                "Meaning":"The ability to generate innovative ideas",
+                "Example":[
+                    {
+                        "Sentence":"Creative thinking is essential for students who want to create their own job opportunities"
+                    }
+                ]
+            },
+            {
+                "Word":"Risk-taking",
+                "Type":"Positive",
+                "Meaning":"The willingness to take calculated risks",
+                "Example":[
+                    {
+                        "Sentence":"Encouraging risk-taking in students can help them become successful entrepreneurs."
+                    }
+                ]
+            },
+            {
+                "Word":"Business incubation",
+                "Type":"Positive",
+                "Meaning":"Support for early-stage businesses",
+                "Example":[
+                    {
+                        "Sentence":"Business incubation programs can help students turn their ideas into profitable ventures"
+                    }
+                ]
+            },
+            {
+                "Word":"Financial literacy",
+                "Type":"Positive",
+                "Meaning":" Understanding how to manage money effectively.",
+                "Example":[
+                    {
+                        "Sentence":"Financial literacy is crucial for students who want to start their own businesses."
+                    }
+                ]
+            },
+            {
+                "Word":"Networking opportunities",
+                "Type":"Positive",
+                "Meaning":" Chances to meet and connect with professionals.",
+                "Example":[
+                    {
+                        "Sentence":"Networking opportunities can help students find mentors and investors for their startups."
+                    }
+                ]
+            },
+            {
+                "Word":"Problem-solving skills",
+                "Type":"Positive",
+                "Meaning":"The ability to find solutions to challenges.",
+                "Example":[
+                    {
+                        "Sentence":"Developing problem-solving skills can prepare students to overcome obstacles in entrepreneurship"
+                    }
+                ]
+            },
+            {
+                "Word":"Market research",
+                "Type":"Positive",
+                "Meaning":" Studying consumer needs and preferences.",
+                "Example":[
+                    {
+                        "Sentence":"Teaching students to conduct market research can help them identify viable business ideas."
+                    }
+                ]
+            },
+            {
+                "Word":"Leadership skills",
+                "Type":"Positive",
+                "Meaning":"The ability to guide and inspire others.",
+                "Example":[
+                    {
+                        "Sentence":"Leadership skills are essential for students who want to build successful teams"
+                    }
+                ]
+            },
+            {
+                "Word":"Sustainable businesses",
+                "Type":"Positive",
+                "Meaning":"Businesses that prioritize long-term growth and social responsibility.",
+                "Example":[
+                    {
+                        "Sentence":"Encouraging students to create sustainable businesses can benefit both the economy and the environment"
+                    }
+                ]
+            },
+            {
+                "Word":"Mentorship programs",
+                "Type":"Positive",
+                "Meaning":"Initiatives that pair students with experienced professionals.",
+                "Example":[
+                    {
+                        "Sentence":"Mentorship programs can provide students with valuable guidance for starting their own businesses."
+                    }
+                ]
+            },
+            {
+                "Word":"Access to funding",
+                "Type":"Positive",
+                "Meaning":"Availability of financial resources for startups.",
+                "Example":[
+                    {
+                        "Sentence":"Access to funding is critical for students who want to turn their ideas into reality"
+                    }
+                ]
+            },
+            {
+                "Word":"Entrepreneurship education",
+                "Type":"Positive",
+                "Meaning":"Teaching students how to start and run businesses.",
+                "Example":[
+                    {
+                        "Sentence":"Entrepreneurship education can empower students to become job creators rather than job seekers"
+                    }
+                ]
+            },
+            {
+                "Word":"Unemployment crisis",
+                "Type":"Negative",
+                "Meaning":" A severe shortage of jobs.",
+                "Example":[
+                    {
+                        "Sentence":"The unemployment crisis has forced many students to consider creating their own job opportunities."
+                    }
+                ]
+            },
+            {
+                "Word":"Lack of resources",
+                "Type":"Negative",
+                "Meaning":"Insufficient access to tools or funding.",
+                "Example":[
+                    {
+                        "Sentence":"Many students face challenges in starting businesses due to a lack of resources."
+                    }
+                ]
+            },
+            {
+                "Word":"Financial constraints",
+                "Type":"Negative",
+                "Meaning":"Limited access to money or funding.",
+                "Example":[
+                    {
+                        "Sentence":"Financial constraints often prevent students from pursuing entrepreneurial ventures."
+                    }
+                ]
+            },
+            {
+                "Word":"Fear of failure",
+                "Type":"Negative",
+                "Meaning":" Anxiety about not succeeding.",
+                "Example":[
+                    {
+                        "Sentence":"Fear of failure can discourage students from taking the risk of starting their own businesses.."
+                    }
+                ]
+            },
+            {
+                "Word":"Limited experience",
+                "Type":"Negative",
+                "Meaning":"Lack of practical knowledge or skills.",
+                "Example":[
+                    {
+                        "Sentence":"Students often struggle with limited experience when trying to launch startups"
+                    }
+                ]
+            },
+            {
+                "Word":"Regulatory hurdles",
+                "Type":"Negative",
+                "Meaning":"Legal or bureaucratic obstacles.",
+                "Example":[
+                    {
+                        "Sentence":"Regulatory hurdles can discourage students from starting their own businesses"
+                    }
+                ]
+            },
+            {
+                "Word":"Economic instability",
+                "Type":"Negative",
+                "Meaning":"Uncertainty in the financial environment.",
+                "Example":[
+                    {
+                        "Sentence":"Economic instability can make it risky for students to invest in new ventures."
+                    }
+                ]
+            },
+            {
+                "Word":"Lack of mentorship",
+                "Type":"Negative",
+                "Meaning":"Absence of guidance from experienced professionals",
+                "Example":[
+                    {
+                        "Sentence":"A lack of mentorship can leave students unprepared for the challenges of entrepreneurship"
+                    }
+                ]
+            },
+            {
+                "Word":"Market saturation",
+                "Type":"Negative",
+                "Meaning":"A large number of similar businesses.",
+                "Example":[
+                    {
+                        "Sentence":"Market saturation can make it hard for student startups to stand out."
+                    }
+                ]
+            },
+            {
+                "Word":"Pressure to conform",
+                "Type":"Negative",
+                "Meaning":"Social expectation to follow traditional career paths.",
+                "Example":[
+                    {
+                        "Sentence":"Pressure to conform often discourages students from pursuing entrepreneurship"
+                    }
+                ]
+            },
+            {
+                "Word":"Burnout",
+                "Type":"Negative",
+                "Meaning":"Physical and emotional exhaustion from overwork.",
+                "Example":[
+                    {
+                        "Sentence":"The stress of starting a business can lead to burnout among students."
+                    }
+                ]
+            },
+            {
+                "Word":"Unrealistic expectations",
+                "Type":"Negative",
+                "Meaning":"Beliefs that are not achievable.",
+                "Example":[
+                    {
+                        "Sentence":"Unrealistic expectations about entrepreneurship can lead to disappointment and failure."
+                    }
+                ]
+            },
+            {
+                "Word":"Cultural barriers",
+                "Type":"Negative",
+                "Meaning":" Differences in values or traditions that hinder progress.",
+                "Example":[
+                    {
+                        "Sentence":"Cultural barriers can make it difficult for students to pursue entrepreneurship in certain societies."
+                    }
+                ]
+            },
+            {
+                "Word":"Lack of awareness",
+                "Type":"Negative",
+                "Meaning":" Insufficient understanding of entrepreneurship.",
+                "Example":[
+                    {
+                        "Sentence":"A lack of awareness about entrepreneurship opportunities can limit students’ ambitions."
+                    }
+                ]
+            }
+        ]
     }
 ]
