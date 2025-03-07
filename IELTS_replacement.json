@@ -55,7 +55,7 @@
                 "Replace":"stands as",
                 "Example":[
                     {
-                        "Sentnece":"Sustainable development stands for meeting the needs of the present without compromising the ability of future generations to meet their own needs"
+                        "Sentence":"Sustainable development stands for meeting the needs of the present without compromising the ability of future generations to meet their own needs"
                     }
                 ]
             },
@@ -63,10 +63,10 @@
                 "Replace":"struggle with",
                 "Example":[
                     {
-                        "Sentnece":"Low-income families often struggle with the rising cost of living, making it difficult to afford basic necessities"
+                        "Sentence":"Low-income families often struggle with the rising cost of living, making it difficult to afford basic necessities"
                     },
                     {
-                        "Sentnece":"Older generations sometimes struggle with adapting to new technologies, which can create a digital divide"
+                        "Sentence":"Older generations sometimes struggle with adapting to new technologies, which can create a digital divide"
                     }
                 ]
             },
