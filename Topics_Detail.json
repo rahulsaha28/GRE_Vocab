@@ -1,9 +1,10 @@
 [
     {
         "Topics":"eco-communities",
-        "Subtopics-positive":[
+        "Subtopics":[
             {
                 "Word":"Self-sufficient communities",
+                "Type":"Positive",
                 "Meaning":"Communities that produce everything they need locally",
                 "Example":[
                     {
@@ -13,6 +14,7 @@
             },
             {
                 "Word":"Community resilience",
+                "Type":"Positive",
                 "Meaning":"সহনশীলতা",
                 "Example":[
                     {
@@ -22,7 +24,7 @@
             },
             {
                 "Word":"Shared resources",
-                
+                "Type":"Positive",
                 "Example":[
                     {
                         "Sentence":"In eco-communities, shared resources like solar panels and water systems reduce individual costs"
@@ -31,6 +33,7 @@
             },
             {
                 "Word":"Collective responsibility",
+                "Type":"Positive",
                 "Example":[
                     {
                         "Sentence":"Eco-communities thrive on collective responsibility for waste management and energy use."
@@ -39,6 +42,7 @@
             },
             {
                 "Word":"Low-impact living",
+                "Type":"Positive",
                 "Meaning":" A lifestyle that minimizes harm to the environment",
                 "Example":[
                     {
@@ -48,6 +52,7 @@
             },
             {
                 "Word":"Regenerative practices",
+                "Type":"Positive",
                 "Meaning":"Practices that restore and renew natural systems",
                 "Example":[
                     {
@@ -57,6 +62,7 @@
             },
             {
                 "Word":"Local food systems",
+                "Type":"Positive",
                 "Example":[
                     {
                         "Sentence":"Eco-communities prioritize local food systems to reduce transportation emissions"
@@ -65,6 +71,7 @@
             },
             {
                 "Word":"Off-grid living",
+                "Type":"Positive",
                 "Meaning":"Living without access to conventional utilities",
                 "Example":[
                     {
@@ -74,6 +81,7 @@
             },
             {
                 "Word":"Holistic approach",
+                "Type":"Positive",
                 "Meaning":"A comprehensive and integrated approach to sustainability",
                 "Example":[
                     {
@@ -83,6 +91,7 @@
             },
             {
                 "Word":"Sustainable development",
+                "Type":"Positive",
                 "Meaning":"Development that meets the needs of the present without compromising the ability of future generations",
                 "Example":[
                     {
@@ -92,6 +101,7 @@
             },
             {
                 "Word":"Green spaces",
+                "Type":"Positive",
                 "Meaning":"Areas reserved for nature within a community",
                 "Example":[
                     {
@@ -101,6 +111,7 @@
             },
             {
                 "Word":"Energy independence",
+                "Type":"Positive",
                 "Meaning":"Producing enough energy locally to meet community needs",
                 "Example":[
                     {
@@ -110,6 +121,7 @@
             },
             {
                 "Word":"Waste reduction",
+                "Type":"Positive",
                 "Meaning":"Minimizing the amount of waste produced",
                 "Example":[
                     {
@@ -119,6 +131,7 @@
             },
             {
                 "Word":"Carbon-neutral living",
+                "Type":"Positive",
                 "Meaning":"A lifestyle that produces no net carbon emissions",
                 "Example":[
                     {
@@ -128,6 +141,7 @@
             },
             {
                 "Word":"Water conservation",
+                "Type":"Positive",
                 "Meaning":"The careful use and preservation of water resources",
                 "Example":[
                     {
@@ -137,6 +151,7 @@
             },
             {
                 "Word":"Biodiversity preservation",
+                "Type":"Positive",
                 "Meaning":" Protecting the variety of life in a community",
                 "Example":[
                     {
@@ -146,6 +161,7 @@
             },
             {
                 "Word":"Social cohesion",
+                "Type":"Positive",
                 "Meaning":"Strong relationships and a sense of belonging in a community.",
                 "Example":[
                     {
@@ -155,167 +171,184 @@
             },
             {
                 "Word":"Innovative solutions",
+                "Type":"Positive",
                 "Example":[
                     {
                         "Sentnece":"Eco-communities are known for their innovative solutions to sustainability challenges"
                     }
                 ]
-            }
-        ],
-        "Subtopics-negative":[
-           {
-            "Word":"High upfront costs",
-            "Meaning":"The initial investment required for infrastructure",
-            "Example":[
-                {
-                    "Sentence":"One challenge of eco-communities is the high upfront costs of installing renewable energy systems"
-                }
-            ]
-           },
-           {
-            "Word":"Limited accessibility",
-            "Meaning":" Not easily available to everyone",
-            "Example":[
-                {
-                    "Sentence":"Eco-communities are often criticized for their limited accessibility to low-income families."
-                }
-            ]
-           },
-           {
-            "Word":"Social isolation",
-            "Meaning":"A lack of connection with the broader society",
-            "Example":[
-                {
-                    "Sentence":"Living in remote eco-communities can sometimes lead to social isolation"
-                }
-            ]
-           },
-           {
-                "Word":"Resource constraints",
-                "Meaning":"Limited availability of resources",
+            },
+            {
+                "Word":"High upfront costs",
+                "Type":"Negative",
+                "Meaning":"The initial investment required for infrastructure",
                 "Example":[
                     {
-                        "Sentence":"Eco-communities in arid[=dry] regions face resource constraints, particularly with water"
+                        "Sentence":"One challenge of eco-communities is the high upfront costs of installing renewable energy systems"
                     }
                 ]
-           },
-           {
-                "Word":"Resistance to change",
-                "Meaning":"Opposition to new ideas or practices",
+               },
+               {
+                "Word":"Limited accessibility",
+                "Type":"Negative",
+                "Meaning":" Not easily available to everyone",
                 "Example":[
                     {
-                        "Sentence":"Some members of traditional communities show resistance to change when eco-communities are introduced"
+                        "Sentence":"Eco-communities are often criticized for their limited accessibility to low-income families."
                     }
                 ]
-           },
-           {
-            "Word":"Lack of scalability",
-            "Meaning":"Difficulty in expanding or replicating a model.",
-            "Example":[
-                {
-                    "Sentence":"The lack of scalability of eco-communities makes it hard to implement their practices on a larger scale."
-                }
-            ]
-           },
-           {
-            "Word":"Dependence on technology",
-            "Meaning":"Over-reliance on technological solutions.",
-            "Example":[
-                {
-                    "Sentence":"Some eco-communities face criticism for their dependence on technology, which can fail or become outdated"
-                }
-            ]
-           },
-           {
-                "Word":"Cultural barriers",
-                "Meaning":"Differences in values or traditions that hinder progress.",
+               },
+               {
+                "Word":"Social isolation",
+                "Type":"Negative",
+                "Meaning":"A lack of connection with the broader society",
                 "Example":[
                     {
-                        "Sentence":"Cultural barriers can make it difficult to establish eco-communities in certain regions"
+                        "Sentence":"Living in remote eco-communities can sometimes lead to social isolation"
                     }
                 ]
-           },
-           {
-            "Word":"Economic inequality",
-            "Meaning":" Disparities in wealth and resources",
-            "Example":[
-                {
-                    "Sentence":"Economic inequality can prevent some people from joining eco-communities due to high costs"
-                }
-            ]
-           },
-           {
-             "Word":"Regulatory hurdles",
-             "Meaning":"Legal or bureaucratic obstacles",
-             "Example":[
-                {
-                    "Sentence":"Eco-communities often face regulatory hurdles when trying to implement alternative energy systems"
-                }
-             ]
-           },
-           {
-            "Word":"Social conflicts",
-            "Meaning":" Disagreements or tensions within a community",
-            "Example":[
-                {
-                    "Sentence":"Social conflicts can arise in eco-communities over resource allocation or decision-making."
-                }
-            ]
-           },
-           {
-            "Word":"Environmental trade-offs",
-            "Meaning":"Sacrificing one environmental benefit for another",
-            "Example":[
-                {
-                    "Sentence":"Building eco-communities sometimes involves environmental trade-offs, such as clearing land for housing"
-                }
-            ]
-           },
-           {
-            "Word":"Dependence on external support",
-            "Meaning":"Relying on outside help to function",
-            "Example":[
-                {
-                    "Sentence":"Some eco-communities struggle with dependence on external support for funding or expertise"
-                }
-            ]
-           },
-           {
-            "Word":"Inequitable participation",
-            "Meaning":"Unequal involvement of community members",
-            "Example":[
-                {
-                    "Sentence":"Inequitable participation in decision-making can undermine[=erode] the success of eco-communities"
-                }
-            ]
-           },
-           {
-            "Word":"Lack of awareness",
-            "Meaning":"Insufficient understanding of eco-community principles.",
-            "Example":[
-                {
-                    "Sentence":"A lack of awareness about sustainable practices can hinder the growth of eco-communities"
-                }
-            ]
-           },
-           {
-            "Word":"Financial instability",
-            "Meaning":" Uncertainty or insecurity in funding.",
-            "Example":[
-                {
-                    "Sentence":"Financial instability is a common challenge for eco-communities relying on donations or grants[=অনুদান]."
-                }
-            ]
-           },
-           {
-            "Word":"Over-reliance on volunteers",
-            "Meaning":": Depending too much on unpaid workers.",
-            "Example":[
-                {
-                    "Sentence":"Eco-communities that over-rely on volunteers may struggle to maintain long-term operations."
-                }
-            ]
-           } 
+               },
+               {
+                    "Word":"Resource constraints",
+                    "Type":"Negative",
+                    "Meaning":"Limited availability of resources",
+                    "Example":[
+                        {
+                            "Sentence":"Eco-communities in arid[=dry] regions face resource constraints, particularly with water"
+                        }
+                    ]
+               },
+               {
+                    "Word":"Resistance to change",
+                    "Type":"Negative",
+                    "Meaning":"Opposition to new ideas or practices",
+                    "Example":[
+                        {
+                            "Sentence":"Some members of traditional communities show resistance to change when eco-communities are introduced"
+                        }
+                    ]
+               },
+               {
+                "Word":"Lack of scalability",
+                "Type":"Negative",
+                "Meaning":"Difficulty in expanding or replicating a model.",
+                "Example":[
+                    {
+                        "Sentence":"The lack of scalability of eco-communities makes it hard to implement their practices on a larger scale."
+                    }
+                ]
+               },
+               {
+                "Word":"Dependence on technology",
+                "Type":"Negative",
+                "Meaning":"Over-reliance on technological solutions.",
+                "Example":[
+                    {
+                        "Sentence":"Some eco-communities face criticism for their dependence on technology, which can fail or become outdated"
+                    }
+                ]
+               },
+               {
+                    "Word":"Cultural barriers",
+                    "Type":"Negative",
+                    "Meaning":"Differences in values or traditions that hinder progress.",
+                    "Example":[
+                        {
+                            "Sentence":"Cultural barriers can make it difficult to establish eco-communities in certain regions"
+                        }
+                    ]
+               },
+               {
+                "Word":"Economic inequality",
+                "Type":"Negative",
+                "Meaning":" Disparities in wealth and resources",
+                "Example":[
+                    {
+                        "Sentence":"Economic inequality can prevent some people from joining eco-communities due to high costs"
+                    }
+                ]
+               },
+               {
+                 "Word":"Regulatory hurdles",
+                 "Type":"Negative",
+                 "Meaning":"Legal or bureaucratic obstacles",
+                 "Example":[
+                    {
+                        "Sentence":"Eco-communities often face regulatory hurdles when trying to implement alternative energy systems"
+                    }
+                 ]
+               },
+               {
+                "Word":"Social conflicts",
+                "Type":"Negative",
+                "Meaning":" Disagreements or tensions within a community",
+                "Example":[
+                    {
+                        "Sentence":"Social conflicts can arise in eco-communities over resource allocation or decision-making."
+                    }
+                ]
+               },
+               {
+                "Word":"Environmental trade-offs",
+                "Type":"Negative",
+                "Meaning":"Sacrificing one environmental benefit for another",
+                "Example":[
+                    {
+                        "Sentence":"Building eco-communities sometimes involves environmental trade-offs, such as clearing land for housing"
+                    }
+                ]
+               },
+               {
+                "Word":"Dependence on external support",
+                "Type":"Negative",
+                "Meaning":"Relying on outside help to function",
+                "Example":[
+                    {
+                        "Sentence":"Some eco-communities struggle with dependence on external support for funding or expertise"
+                    }
+                ]
+               },
+               {
+                "Word":"Inequitable participation",
+                "Type":"Negative",
+                "Meaning":"Unequal involvement of community members",
+                "Example":[
+                    {
+                        "Sentence":"Inequitable participation in decision-making can undermine[=erode] the success of eco-communities"
+                    }
+                ]
+               },
+               {
+                "Word":"Lack of awareness",
+                "Type":"Negative",
+                "Meaning":"Insufficient understanding of eco-community principles.",
+                "Example":[
+                    {
+                        "Sentence":"A lack of awareness about sustainable practices can hinder the growth of eco-communities"
+                    }
+                ]
+               },
+               {
+                "Word":"Financial instability",
+                "Type":"Negative",
+                "Meaning":" Uncertainty or insecurity in funding.",
+                "Example":[
+                    {
+                        "Sentence":"Financial instability is a common challenge for eco-communities relying on donations or grants[=অনুদান]."
+                    }
+                ]
+               },
+               {
+                "Word":"Over-reliance on volunteers",
+                "Type":"Negative",
+                "Meaning":": Depending too much on unpaid workers.",
+                "Example":[
+                    {
+                        "Sentence":"Eco-communities that over-rely on volunteers may struggle to maintain long-term operations."
+                    }
+                ]
+               } 
+
         ]
     }
 ]
