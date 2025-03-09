@@ -1494,5 +1494,200 @@
 
         
         ]
+    },
+    {
+        "Topics":"Verb Section",
+        "Subtopics":[
+            {
+                "Word":"Transform education",
+                "Type":"Positive",
+                "Meaning":"To completely change the way education is delivered.",
+                "Example":[
+                    {
+                        "Sentence":"Technology has the potential to transform education by making it more interactive and accessible"
+                    }
+                ]
+            },
+            {
+                "Word":"Enhance learning",
+                "Type":"Positive",
+                "Meaning":"To improve the quality of education.",
+                "Example":[
+                    {
+                        "Sentence":"Digital tools can enhance learning by providing real-time feedback and personalized content."
+                    }
+                ]
+            },
+            {
+                "Word":"Empower students",
+                "Type":"Positive",
+                "Meaning":"To give students the tools and confidence to succeed.",
+                "Example":[
+                    {
+                        "Sentence":"Technology empowers students to take control of their own learning"
+                    }
+                ]
+            },
+            {
+                "Word":"Facilitate collaboration",
+                "Type":"Positive",
+                "Meaning":"To make teamwork easier.",
+                "Example":[
+                    {
+                        "Sentence":"Online platforms facilitate collaboration among students from different parts of the world."
+                    }
+                ]
+            },
+            {
+                "Word":"Revolutionize teaching",
+                "Type":"Positive",
+                "Meaning":"To completely change traditional teaching methods.",
+                "Example":[
+                    {
+                        "Sentence":"Virtual reality has the potential to revolutionize teaching by creating immersive learning experiences."
+                    }
+                ]
+            },
+            {
+                "Word":"Expand access",
+                "Type":"Positive",
+                "Meaning":" To make education available to more people",
+                "Example":[
+                    {
+                        "Sentence":"Online courses expand access to education for people in remote areas"
+                    }
+                ]
+            },
+            {
+                "Word":"Boost engagement",
+                "Type":"Positive",
+                "Meaning":"To increase students’ interest and participation.",
+                "Example":[
+                    {
+                        "Sentence":"Gamification boosts engagement by making learning fun and interactive"
+                    }
+                ]
+            },
+            {
+                "Word":"Promote equity",
+                "Type":"Positive",
+                "Meaning":"To ensure that everyone has equal opportunities.",
+                "Example":[
+                    {
+                        "Sentence":"Promoting equity in education can help bridge the gap between urban and rural areas."
+                    }
+                ]
+            },
+            {
+                "Word":"Foster creativity",
+                "Type":"Positive",
+                "Meaning":"To encourage innovative thinking",
+                "Example":[
+                    {
+                        "Sentence":"Digital tools foster creativity by allowing students to experiment with new ideas"
+                    }
+                ]
+            },
+            {
+                "Word":"Bridge gaps",
+                "Type":"Positive",
+                "Meaning":"To reduce differences or inequalities.",
+                "Example":[
+                    {
+                        "Sentence":"Technology bridges gaps by providing equal opportunities for all students"
+                    }
+                ]
+            },
+            {
+                "Word":"Accelerate progress",
+                "Type":"Positive",
+                "Meaning":"To speed up learning or development.",
+                "Example":[
+                    {
+                        "Sentence":"E-learning platforms accelerate progress by allowing students to learn at their own pace."
+                    }
+                ]
+            },
+            {
+                "Word":"Enrich experiences",
+                "Type":"Positive",
+                "Meaning":" To make learning more meaningful and enjoyable",
+                "Example":[
+                    {
+                        "Sentence":"Virtual field trips enrich experiences by exposing students to new environments."
+                    }
+                ]
+            },
+            {
+                "Word":"Promote inclusivity",
+                "Type":"Positive",
+                "Meaning":"To ensure education is accessible to everyone.",
+                "Example":[
+                    {
+                        "Sentence":"Assistive technologies promote inclusivity by supporting students with disabilities"
+                    }
+                ]
+            },
+            {
+                "Word":"Encourage innovation",
+                "Type":"Positive",
+                "Meaning":"To inspire new ideas and approaches.",
+                "Example":[
+                    {
+                        "Sentence":"Technology encourages innovation by providing tools for experimentation and problem-solving"
+                    }
+                ]
+            },
+            {
+                "Word":"Simplify complex concepts",
+                "Type":"Positive",
+                "Meaning":"To make difficult ideas easier to understand.",
+                "Example":[
+                    {
+                        "Sentence":"Interactive simulations simplify complex concepts in subjects like science and math"
+                    }
+                ]
+            },
+            {
+                "Word":"Support lifelong learning",
+                "Type":"Positive",
+                "Meaning":"To enable continuous education throughout life.",
+                "Example":[
+                    {
+                        "Sentence":"Online courses support lifelong learning by offering flexible options for adults"
+                    }
+                ]
+            },
+            {
+                "Word":"Improve outcomes",
+                "Type":"Positive",
+                "Meaning":"To achieve better results.",
+                "Example":[
+                    {
+                        "Sentence":"Technology improves outcomes by providing data-driven insights into student performance"
+                    }
+                ]
+            },
+            {
+                "Word":"Enable remote learning",
+                "Type":"Positive",
+                "Meaning":"To make education possible from anywhere.",
+                "Example":[
+                    {
+                        "Sentence":"Video conferencing tools enable remote learning for students in rural areas"
+                    }
+                ]
+            },
+            {
+                "Word":"Enhance communication",
+                "Type":"Positive",
+                "Meaning":"To improve interaction between students and teachers",
+                "Example":[
+                    {
+                        "Sentence":"Messaging apps enhance communication by allowing instant feedback and support"
+                    }
+                ]
+            }
+        ]
     }
 ]
