@@ -397,6 +397,18 @@
             },
             {
                 "Replace":"has approved"
+            },
+            {
+                "Replace":"seize",
+                "Meaning":"take control of or  take advantage of an opportunity quickly",
+                "Example":[
+                    {
+                        "Sentence":"Governments must seize the moment to implement policies that reduce carbon emissions and combat climate change"
+                    },
+                    {
+                        "Sentence":"Countries that seize the benefits of globalization can experience significant economic growth and development"
+                    }
+                ]
             }
         ]
     },
@@ -639,6 +651,24 @@
             },
             {
                 "Replace":"profoundly disturbed"
+            },
+            {
+                "Replace":"dismantle"
+            },
+            {
+                "Replace":"mayhem"
+            },
+            {
+                "Replace":"devastating"
+            },
+            {
+                "Replace":"decimate"
+            },
+            {
+                "Replace":"exterminate"
+            },
+            {
+                "Replace":"sabotage"
             }
         ]
     },
@@ -971,7 +1001,86 @@
                 ]
             }
         ]
+    },
+    {
+        "Word":"hinder",
+        "Total":[
+            {
+                "Replace":"inhibit",
+                "Meaning":"prevent or stop",
+                "Example":[
+                    {
+                        "Sentence":"Poor infrastructure can inhibit economic growth in developing countries."
+                    },
+                    {
+                        "Sentence":"Deforestation inhibits the natural ability of forests to absorb carbon dioxide, contributing to climate change"
+                    }
+                ]
+                
+                
+            }
+           
+        ]
+    },
+    {
+        "Word":"Students",
+        "Total":[
+            {
+                "Replace":"learners"
+            }
+        ]
+    },
+    {
+        "Word":"work",
+        "Total":[
+            {
+                "Replace":"Chores",
+                "Example":[
+                    {
+                        "Sentence":"household chores"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Word":"পরিচালিত",
+        "Total":[
+           {
+            "Replace":"driven"
+           } 
+        ]
+    },
+    {
+        "Word":"effective",
+        "Total":[
+            {
+                "Replace":"leverage",
+                "Meaning":"take advantage of",
+                "Example":[
+                    {
+                        "Sentence":"The leverage of renewable energy sources is essential for reducing our dependence on fossil fuels and combating climate change."
+                    },
+                    {
+                        "Sentence":"The leverage of technological advancements has transformed the way we live, work, and communicate"
+                    },
+                    {
+                        "Sentence":"Entrepreneurs often face numerous challenges in their pursuit of success, but perseverance can lead to great achievements"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Word":"discover",
+        "Total":[
+            {
+                "Replace":"innovative"
+               
+            }
+        ]
     }
+    
 
     
 
