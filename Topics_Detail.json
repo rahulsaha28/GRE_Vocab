@@ -2069,5 +2069,333 @@
             }
 
         ]
+    },
+    {
+       "Topics":"Society",
+       "Subtopics":[
+        {
+            "Word":"Social cohesion",
+            "Type":"Positive",
+            "Meaning":"The willingness of members of a society to cooperate and live together peacefully.",
+            "Example":[
+                {
+                    "Sentence":"Social cohesion is essential for maintaining harmony in multicultural societies."
+                }
+            ]
+        },
+        {
+            "Word":"Social inequality",
+            "Type":"Negative",
+            "Meaning":" Unequal distribution of resources and opportunities among different group",
+            "Example":[
+                {
+                    "Sentence":"Social inequality often leads to unrest and dissatisfaction among citizens"
+                }
+            ]
+        },
+        {
+            "Word":"Cultural diversity",
+            "Type":"Positive",
+            "Meaning":"The existence of a variety of cultural or ethnic groups within a society.",
+            "Example":[
+                {
+                    "Sentence":"Cultural diversity enriches societies by promoting tolerance and understanding"
+                }
+            ]
+        },
+        {
+            "Word":"Social mobility",
+            "Type":"Positive",
+            "Meaning":"The ability of members of a society to move up or down the social ladder.",
+            "Example":[
+                {
+                    "Sentence":"Education is a key factor in improving social mobility."
+                }
+            ]
+        },
+        {
+            "Word":"Generational gap",
+            "Type":"Negative",
+            "Meaning":"Differences in opinions or attitudes between older and younger generations.",
+            "Example":[
+                {
+                    "Sentence":"The generational gap often leads to misunderstandings between parents and childrens"
+                }
+            ]
+        },
+        {
+            "Word":"Social norms",
+            "Type":"Positive",
+            "Meaning":" Unwritten rules that govern behavior in a society.",
+            "Example":[
+                {
+                    "Sentence":"Social norms influence how people interact with each other in public spaces."
+                }
+            ]
+        },
+        {
+            "Word":"Social mobility",
+            "Type":"Positive",
+            "Meaning":"The ability of members of a society to move up or down the social ladder.",
+            "Example":[
+                {
+                    "Sentence":"Education is a key factor in improving social mobility."
+                }
+            ]
+        },
+        {
+            "Word":"Civic engagement",
+            "Type":"Positive",
+            "Meaning":" Participation in community activities and decision-making processes.",
+            "Example":[
+                {
+                    "Sentence":"Civic engagement is crucial for the development of a democratic society."
+                }
+            ]
+        },
+        {
+            "Word":"Social welfare",
+            "Type":"Positive",
+            "Meaning":"Government programs that support the well-being of citizens.",
+            "Example":[
+                {
+                    "Sentence":"Investing in social welfare programs can reduce poverty and inequality"
+                }
+            ]
+        },
+        {
+            "Word":"Social fabric",
+            "Type":"Positive",
+            "Meaning":"The structure and relationships within a society.",
+            "Example":[
+                {
+                    "Sentence":"A strong social fabric is essential for a healthy society."
+                },
+                {
+                    "Sentence":"Social fabric can be weakened by social inequality and discrimination."
+                }
+            ]
+        },
+        {
+            "Word":"Poverty alleviation",
+            "Type":"Positive",
+            "Meaning":"Efforts to reduce or eliminate poverty.",
+            "Example":[
+                {
+                    "Sentence":"Poverty alleviation programs are essential for improving living standards"
+                }
+            ]
+        },
+        {
+            "Word":"Income disparity",
+            "Type":"Negative",
+            "Meaning":"The gap between the rich and the poor.",
+            "Example":[
+                {
+                    "Sentence":"Income disparity is a growing concern in many developed countries"
+                }
+            ]
+        },
+        {
+            "Word":"Gender equality",
+            "Type":"Negative",
+            "Meaning":"Equal rights and opportunities for all genders.",
+            "Example":[
+                {
+                    "Sentence":"Gender equality is crucial for achieving social justice."
+                }
+            ]
+        },
+        {
+            "Word":"Social exclusion",
+            "Type":"Negative",
+            "Meaning":"Marginalization of certain groups from society.",
+            "Example":[
+                {
+                    "Sentence":"Social exclusion often leads to feelings of isolation and resentment"
+                }
+            ]
+        },
+        {
+            "Word":"Urban sprawl",
+            "Type":"Negative",
+            "Meaning":"The uncontrolled expansion of urban areas.",
+            "Example":[
+                {
+                    "Sentence":"Urban sprawl can lead to environmental degradation and loss of farmland."
+                }
+            ]
+        },
+        {
+            "Word":"Homelessness crisis",
+            "Type":"Negative",
+            "Meaning":"A widespread lack of housing for the population.",
+            "Example":[
+                {
+                    "Sentence":"The homelessness crisis requires immediate government intervention."
+                }
+            ]
+        },
+        {
+            "Word":"Social mobility",
+            "Type":"Positive",
+            "Meaning":"The ability of members of a society to move up or down the social ladder.",
+            "Example":[
+                {
+                    "Sentence":"Education is a key factor in improving social mobility."
+                }
+            ]
+        },
+        {
+            "Word":"Digital divide",
+            "Type":"Negative",
+            "Meaning":"The gap between those who have access to technology and those who do not.",
+            "Example":[
+                {
+                    "Sentence":"The digital divide exacerbates social inequality in education"
+                }
+            ]
+        },
+        {
+            "Word":"Social mobility",
+            "Type":"Positive",
+            "Meaning":"The ability of members of a society to move up or down the social ladder.",
+            "Example":[
+                {
+                    "Sentence":"Education is a key factor in improving social mobility."
+                }
+            ]
+        },
+        {
+            "Word":"Youth unemployment",
+            "Type":"Negative",
+            "Meaning":"High levels of joblessness among young people",
+            "Example":[
+                {
+                    "Sentence":"Youth unemployment is a pressing issue in many developing countries"
+                }
+            ]
+        },
+        {
+            "Word":"Aging population",
+            "Type":"Negative",
+            "Meaning":"A growing proportion of elderly people in society.",
+            "Example":[
+                {
+                    "Sentence":"An aging population puts pressure on healthcare systems."
+                }
+            ]
+        },
+        {
+            "Word":"Mental health awareness",
+            "Type":"Positive",
+            "Meaning":"Efforts to educate people about mental health issues.",
+            "Example":[
+                {
+                    "Sentence":"Mental health awareness campaigns can reduce stigma and encourage people to seek help"
+                }
+            ]
+        },
+        {
+            "Word":"Technological advancements",
+            "Type":"Positive",
+            "Meaning":" Innovations that improve efficiency and quality of life.",
+            "Example":[
+                {
+                    "Sentence":"Technological advancements have transformed the way we communicate"
+                }
+            ]
+        },
+        {
+            "Word":"Globalization",
+            "Type":"Positive",
+            "Meaning":"The process of countries becoming more interconnected.",
+            "Example":[
+                {
+                    "Sentence":"Globalization has both positive and negative impacts on local cultures"
+                }
+            ]
+        },
+        {
+            "Word":"Cultural assimilation",
+            "Type":"Positive",
+            "Meaning":"The process of adopting the culture of a dominant group.",
+            "Example":[
+                {
+                    "Sentence":"Cultural assimilation can lead to the loss of traditional practices"
+                }
+            ]
+        },
+        {
+            "Word":"Social reform",
+            "Type":"Positive",
+            "Meaning":" Changes made to improve society",
+            "Example":[
+                {
+                    "Sentence":"Social reform is necessary to address systemic inequalities"
+                }
+            ]
+        },
+        {
+            "Word":"Political activism",
+            "Type":"Positive",
+            "Meaning":" Efforts to bring about political or social change.",
+            "Example":[
+                {
+                    "Sentence":"Political activism plays a key role in shaping government policies."
+                }
+            ]
+        },
+        {
+            "Word":"Environmental awareness",
+            "Type":"Positive",
+            "Meaning":"Understanding the importance of protecting the environment",
+            "Example":[
+                {
+                    "Sentence":"Environmental awareness has led to an increase in recycling programs"
+                }
+            ]
+        },
+        {
+            "Word":"Work-life balance",
+            "Type":"Positive",
+            "Meaning":"Balancing professional and personal life.",
+            "Example":[
+                {
+                    "Sentence":"A good work-life balance is essential for mental well-being"
+                }
+            ]
+        },
+        {
+            "Word":"Social media influence",
+            "Type":"Positive",
+            "Meaning":"The impact of social media on society.",
+            "Example":[
+                {
+                    "Sentence":"Social media influence can shape public opinion and behavior."
+                }
+            ]
+        },
+        {
+            "Word":"Consumer culture",
+            "Type":"Positive",
+            "Meaning":"A society focused on buying and consuming goods.",
+            "Example":[
+                {
+                    "Sentence":"Consumer culture often leads to excessive waste and environmental damage"
+                }
+            ]
+        },
+        {
+            "Word":"Urbanization",
+            "Type":"Positive",
+            "Meaning":"The growth of cities and migration to urban areas.",
+            "Example":[
+                {
+                    "Sentence":"Urbanization has led to overcrowding and increased pollution"
+                }
+            ]
+        }
+       ] 
     }
 ]
