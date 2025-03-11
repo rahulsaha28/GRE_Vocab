@@ -1687,7 +1687,387 @@
                         "Sentence":"Messaging apps enhance communication by allowing instant feedback and support"
                     }
                 ]
+            },
+            {
+                "Word":"Widen gaps",
+                "Type":"Negative",
+                "Meaning":"To increase differences or inequalities.",
+                "Example":[
+                    {
+                        "Sentence":"The digital divide widens gaps between students with and without access to technology"
+                    }
+                ]
+            },
+            {
+                "Word":"Distract students",
+                "Type":"Negative",
+                "Meaning":"To divert attention from learning.",
+                "Example":[
+                    {
+                        "Sentence":"Social media can distract students from focusing on their studies"
+                    }
+                ]
+            },
+            {
+                "Word":"Hinder development",
+                "Type":"Negative",
+                "Meaning":"To impede progress or growth.",
+                "Example":[
+                    {
+                        "Sentence":"Over-reliance on technology can hinder the development of critical thinking skills"
+                    }
+                ]
+            },
+            {
+                "Word":"Exacerbate inequalities",
+                "Type":"Negative",
+                "Meaning":"To make existing inequalities worse.",
+                "Example":[
+                    {
+                        "Sentence":"High costs of devices exacerbate inequalities in access to education."
+                    }
+                ]
+            },
+            {
+                "Word":"Limit access",
+                "Type":"Negative",
+                "Meaning":"To restrict availability of education.",
+                "Example":[
+                    {
+                        "Sentence":"The pandemic limited access to education for many students in developing countries"
+                    }
+                ]
+            },
+            {
+                "Word":"Undermine traditional skills",
+                "Type":"Negative",
+                "Meaning":"To weaken or devalue conventional abilities.",
+                "Example":[
+                    {
+                        "Sentence":"Technology undermines traditional skills like handwriting and face-to-face communications"
+                    }
+                ]
+            },
+            {
+                "Word":"Compromise privacy",
+                "Type":"Negative",
+                "Meaning":"To put personal information at risk.",
+                "Example":[
+                    {
+                        "Sentence":"Educational apps often compromise privacy by collecting user data"
+                    }
+                ]
+            },
+            {
+                "Word":"Create barriers",
+                "Type":"Negative",
+                "Meaning":"To set obstacles or hindrances.",
+                "Example":[
+                    {
+                        "Sentence":"The pandemic created barriers to education for many students in developing countries"
+                    }
+                ]
+            },
+            {
+                "Word":"Foster inequality",
+                "Type":"Negative",
+                "Meaning":"To create or increase unfairness.",
+                "Example":[
+                    {
+                        "Sentence":"Unequal access to technology fosters inequality in educational opportunities"
+                    }
+                ]
             }
+
+        ]
+    },
+    {
+        "Topics":"All Topics verb",
+        "Subtopics":[
+            {
+                "Word":"Advocate",
+                "Type":"Positive",
+                "Meaning":" To publicly support or recommend a particular cause or policy.",
+                "Example":[
+                    {
+                        "Sentence":"Many experts advocate for stricter environmental regulations to combat climate change."
+                    }
+                ]
+            },
+            {
+                "Word":"Amplify",
+                "Type":"Positive",
+                "Meaning":"To increase the strength or amount of something.",
+                "Example":[
+                    {
+                        "Sentence":"Social media has amplified the spread of misinformation in recent years."
+                    }
+                ]
+            },
+            {
+                "Word":"Bolster",
+                "Type":"Positive",
+                "Meaning":"To support or strengthen something.",
+                "Example":[
+                    {
+                        "Sentence":"Governments should bolster public healthcare systems to ensure universal access."
+                    }
+                ]
+            },
+            {
+                "Word":"Combat",
+                "Type":"Positive",
+                "Meaning":"To take action to reduce or prevent something bad.",
+                "Example":[
+                    {
+                        "Sentence":"Education is essential to combat poverty and inequality."
+                    }
+                ]
+            },
+            {
+                "Word":"Contend",
+                "Type":"Positive",
+                "Meaning":"To argue or assert something in a debate.",
+                "Example":[
+                    {
+                        "Sentence":"Some contend that technology has made people more isolated."
+                    }
+                ]
+            },
+            {
+                "Word":"Deteriorate",
+                "Type":"Positive",
+                "Meaning":" To become worse over time.",
+                "Example":[
+                    {
+                        "Sentence":"Air quality in urban areas has deteriorated due to increased vehicle emissions."
+                    }
+                ]
+            },
+            {
+                "Word":"Devise",
+                "Type":"Positive",
+                "Meaning":"To plan or invent something carefully",
+                "Example":[
+                    {
+                        "Sentence":"Governments must devise effective strategies to address unemployment."
+                    }
+                ]
+            },
+            {
+                "Word":"Eradicate",
+                "Type":"Negative",
+                "Meaning":"To completely remove or destroy something",
+                "Example":[
+                    {
+                        "Sentence":"Vaccination programs have helped eradicate diseases like smallpox."
+                    }
+                ]
+            },
+            {
+                "Word":"Exacerbate",
+                "Type":"Negative",
+                "Meaning":"To make a problem or situation worse",
+                "Example":[
+                    {
+                        "Sentence":"Poor urban planning exacerbates traffic congestion in cities."
+                    }
+                ]
+            },
+            {
+                "Word":"Foster",
+                "Type":"Positive",
+                "Meaning":"To encourage or promote the development of something.",
+                "Example":[
+                    {
+                        "Sentence":"Schools should foster creativity and critical thinking in students."
+                    }
+                ]
+            },
+            {
+                "Word":"Hinder",
+                "Type":"Negative",
+                "Meaning":"To create difficulties that delay or prevent something.",
+                "Example":[
+                    {
+                        "Sentence":"Lack of funding can hinder scientific research and innovation"
+                    }
+                ]
+            },
+            {
+                "Word":"Impede",
+                "Type":"Negative",
+                "Meaning":" To slow down or block the progress of something",
+                "Example":[
+                    {
+                        "Sentence":"Corruption can impede economic growth in developing countries."
+                    }
+                ]
+            },
+            {
+                "Word":"Inhibit",
+                "Type":"Negative",
+                "Meaning":"To prevent or stop something from happening",
+                "Example":[
+                    {
+                        "Sentence":"Lack of funding can inhibit scientific research and innovation"
+                    },
+                    {
+                        "Sentence":"Fear of failure can inhibit individuals from pursuing their dreams"
+                    }
+                ]
+            },
+            {
+                "Word":"Mitigate",
+                "Type":"Negative",
+                "Meaning":"To reduce the severity or impact of something.",
+                "Example":[
+                    {
+                        "Sentence":"Planting trees can help mitigate the effects of global warming."
+                    }
+                ]
+            },
+            {
+                "Word":"Perpetuate",
+                "Type":"Positive",
+                "Meaning":"To cause something to continue indefinitely.",
+                "Example":[
+                    {
+                        "Sentence":"Gender stereotypes in media perpetuate inequality in society."
+                    }
+                ]
+            },
+            {
+                "Word":"Prioritize",
+                "Type":"Positive",
+                "Meaning":" To treat something as more important than other things.",
+                "Example":[
+                    {
+                        "Sentence":"Governments should prioritize renewable energy over fossil fuels."
+                    }
+                ]
+            },
+            {
+                "Word":"Rectify",
+                "Type":"Positive",
+                "Meaning":"To correct or fix something.",
+                "Example":[
+                    {
+                        "Sentence":"Immediate action is needed to rectify the damage caused by deforestation."
+                    }
+                ]
+            },
+            {
+                "Word":"Resolve",
+                "Type":"Positive",
+                "Meaning":"To find a solution to a problem.",
+                "Example":[
+                    {
+                        "Sentence":"Diplomatic efforts are necessary to resolve international conflicts"
+                    }
+                ]
+            },
+            {
+                "Word":"Stimulate",
+                "Type":"Positive",
+                "Meaning":"To encourage or boost activity or growth.",
+                "Example":[
+                    {
+                        "Sentence":"Tax cuts can stimulate economic growth during a recession"
+                    }
+                ]
+            },
+            {
+                "Word":"Subsidize",
+                "Type":"Positive",
+                "Meaning":"To support financially",
+                "Example":[
+                    {
+                        "Sentence":"Governments often subsidize education to make it accessible to all."
+                    }
+                ]
+            },
+            {
+                "Word":"Surpass",
+                "Type":"Positive",
+                "Meaning":"To exceed or go beyond.",
+                "Example":[
+                    {
+                        "Sentence":"Renewable energy use has surpassed fossil fuels in some countries."
+                    }
+                ]
+            },
+            {
+                "Word":"Undermine",
+                "Type":"Positive",
+                "Meaning":"To weaken or damage something gradually.",
+                "Example":[
+                    {
+                        "Sentence":"Corruption undermines public trust in government institutions."
+                    }
+                ]
+            },
+            {
+                "Word":"Utilize",
+                "Type":"Positive",
+                "Meaning":" To make practical use of something.",
+                "Example":[
+                    {
+                        "Sentence":"Companies should utilize technology to improve efficiency"
+                    }
+                ]
+            },
+            {
+                "Word":"Worsen",
+                "Type":"Negative",
+                "Meaning":"  To make or become worse.",
+                "Example":[
+                    {
+                        "Sentence":"Climate change is expected to worsen natural disasters."
+                    }
+                ]
+            },
+            {
+                "Word":"Yield",
+                "Type":"Positive",
+                "Meaning":" To produce or provide a result.",
+                "Example":[
+                    {
+                        "Sentence":"Investments in education yield long-term benefits for society"
+                    }
+                ]
+            },
+            {
+                "Word":"Alleviate",
+                "Type":"Positive",
+                "Meaning":"To reduce the severity of something.",
+                "Example":[
+                    {
+                        "Sentence":" Charitable organizations work to alleviate poverty in developing nations."
+                    }
+                ]
+            },
+            {
+                "Word":"Compensate",
+                "Type":"Positive",
+                "Meaning":"To make up for something undesirable.",
+                "Example":[
+                    {
+                        "Sentence":" Higher salaries can compensate for the lack of job security in some industries."
+                    }
+                ]
+            },
+            {
+                "Word":"Enhance",
+                "Type":"Positive",
+                "Meaning":"To improve the quality or value of something",
+                "Example":[
+                    {
+                        "Sentence":"Regular exercise enhances both physical and mental health."
+                    }
+                ]
+            }
+
         ]
     }
 ]
