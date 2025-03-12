@@ -2395,7 +2395,378 @@
                     "Sentence":"Urbanization has led to overcrowding and increased pollution"
                 }
             ]
+        },
+        {
+            "Word":"Government intervention",
+            "Type":"Positive",
+            "Meaning":"Actions taken by the government to address issues.",
+            "Example":[
+                {
+                    "Sentence":"Government intervention is necessary to regulate industries and protect the environment"
+                }
+            ]
+        },
+        {
+            "Word":"Community outreach",
+            "Type":"Positive",
+            "Meaning":" Efforts to connect with and support local communities.",
+            "Example":[
+                {
+                    "Sentence":"Community outreach programs can help reduce crime rates"
+                }
+            ]
+        },
+        {
+            "Word":"Education reform",
+            "Type":"Positive",
+            "Meaning":" Changes to improve the education system.",
+            "Example":[
+                {
+                    "Sentence":"Education reform is needed to prepare students for the modern workforce"
+                }
+            ]
+        },
+        {
+            "Word":"Healthcare accessibility",
+            "Type":"Positive",
+            "Meaning":"Ensuring that everyone has access to medical services.",
+            "Example":[
+                {
+                    "Sentence":"Improving healthcare accessibility can reduce mortality rates."
+                }
+            ]
+        },
+        {
+            "Word":"Public transportation",
+            "Type":"Positive",
+            "Meaning":"Shared transport systems like buses and trains.",
+            "Example":[
+                {
+                    "Sentence":"Investing in public transportation can reduce traffic congestion"
+                }
+            ]
+        },
+        {
+            "Word":"Sustainable development",
+            "Type":"Positive",
+            "Meaning":"Development that meets present needs without compromising future generations.",
+            "Example":[
+                {
+                    "Sentence":"Sustainable development is key to addressing climate change."
+                }
+            ]
+        },
+        {
+            "Word":"Equal opportunities",
+            "Type":"Positive",
+            "Meaning":"Equal opportunities",
+            "Example":[
+                {
+                    "Sentence":"Equal opportunities in education can help bridge the income gap"
+                }
+            ]
+        },
+        {
+            "Word":"Social safety nets",
+            "Type":"Positive",
+            "Meaning":"Programs that provide support to vulnerable populations.",
+            "Example":[
+                {
+                    "Sentence":"Social safety nets are crucial for protecting the elderly and disabled"
+                }
+            ]
+        },
+        {
+            "Word":"Civic responsibility",
+            "Type":"Positive",
+            "Meaning":"The duty of citizens to contribute to society.",
+            "Example":[
+                {
+                    "Sentence":"Civic responsibility includes voting and paying taxes."
+                }
+            ]
+        },
+        {
+            "Word":"Changing demographics",
+            "Type":"Positive",
+            "Meaning":"Shifts in the population's composition.",
+            "Example":[
+                {
+                    "Sentence":"Changing demographics are influencing housing demand."
+                }
+            ]
+        },
+        {
+            "Word":"Rise of individualism",
+            "Type":"Positive",
+            "Meaning":"A focus on personal freedom and self-expression",
+            "Example":[
+                {
+                    "Sentence":"The rise of individualism has led to a decline in community ties."
+                }
+            ]
+        },
+        {
+            "Word":"Cultural globalization",
+            "Type":"Negative",
+            "Meaning":" The spread of cultural practices across the world.",
+            "Example":[
+                {
+                    "Sentence":"Cultural globalization can lead to the loss of local traditions."
+                },
+                {
+                    "Sentence":"Cultural globalization has made international cuisine[= রন্ধনপ্রণালী] popular."
+                }
+            ]
+        },
+        {
+            "Word":"Gig economy",
+            "Type":"Positive",
+            "Meaning":"A labor market based on short-term contracts.",
+            "Example":[
+                {
+                    "Sentence":"The gig economy offers flexibility but lacks job security"
+                }
+            ]
+        },
+        {
+            "Word":"Urban decay",
+            "Type":"Negative",
+            "Meaning":"The deterioration of urban areas.",
+            "Example":[
+                {
+                    "Sentence":"Urban decay is often caused by neglect and lack of investment"
+                }
+            ]
+        },
+        {
+            "Word":"Social polarization",
+            "Type":"Negative",
+            "Meaning":" Division of society into opposing groups.",
+            "Example":[
+                {
+                    "Sentence":"Social polarization can lead to political instability"
+                },
+                {
+                    "Sentence":"Social polarization often results in economic disparities"
+                }
+            ]
+        },
+        {
+            "Word":"Urban sprawl",
+            "Type":"Negative",
+            "Meaning":"The uncontrolled expansion of urban areas.",
+            "Example":[
+                {
+                    "Sentence":"Urban sprawl can lead to environmental degradation and loss of farmland."
+                }
+            ]
+        },
+        {
+            "Word":"Digital transformation",
+            "Type":"Positive",
+            "Meaning":"The integration of digital technology into all areas of life.",
+            "Example":[
+                {
+                    "Sentence":"Digital transformation is reshaping industries and job markets"
+                }
+            ]
+        },
+        {
+            "Word":"Decline of traditional values",
+            "Type":"Negative",
+            "Meaning":"A shift away from long-standing cultural norms.",
+            "Example":[
+                {
+                    "Sentence":"The decline of traditional values has led to a loss of cultural heritage"
+                }
+            ]
+        },
+        {
+            "Word":"Social unrest",
+            "Type":"Negative",
+            "Meaning":"Public dissatisfaction leading to protests or riots",
+            "Example":[
+                {
+                    "Sentence":"Social unrest often arises from economic inequality"
+                }
+            ]
+        },
+        {
+            "Word":"Brain drain",
+            "Type":"Negative",
+            "Meaning":"The emigration of skilled workers to other countries.",
+            "Example":[
+                {
+                    "Sentence":"Brain drain is a major challenge for developing nations"
+                }
+            ]
+        },
+        {
+            "Word":"Social stigma",
+            "Type":"Negative",
+            "Meaning":"Discrimination against certain groups based on social status or identity.",
+            "Example":[
+                {
+                    "Sentence":"Social stigma can prevent marginalized communities from accessing opportunities"
+                }
+            ]
+        },
+        {
+            "Word":"Racial discrimination",
+            "Type":"Negative",
+            "Meaning":" Unfair treatment based on race or ethnicity.",
+            "Example":[
+                {
+                    "Sentence":"Racial discrimination remains a significant issue in many societies."
+                }
+            ]
+        },
+        {
+            "Word":"Income inequality",
+            "Type":"Negative",
+            "Meaning":": Unequal distribution of income among individuals.",
+            "Example":[
+                {
+                    "Sentence":"Income inequality can hinder economic growth and social stability"
+                }
+            ]
+        },
+        {
+            "Word":"Child labor",
+            "Type":"Negative",
+            "Meaning":"Exploitation of children through work.",
+            "Example":[
+                {
+                    "Sentence":"Child labor is a serious issue in many developing countries"
+                }
+            ]
+        },
+        {
+            "Word":"Human trafficking",
+            "Type":"Negative",
+            "Meaning":"Illegal trade of humans for exploitation",
+            "Example":[
+                {
+                    "Sentence":"Human trafficking is a global issue that requires international cooperation"
+                }
+            ]
+        },
+        {
+            "Word":"Climate refugees",
+            "Type":"Negative",
+            "Meaning":" People forced to leave their homes due to climate change.",
+            "Example":[
+                {
+                    "Sentence":"Climate refugees are becoming more common as sea levels rise"
+                }
+            ]
+        },
+        {
+            "Word":"Grassroots movements",
+            "Type":"Positive",
+            "Meaning":"Local or community-based initiatives.",
+            "Example":[
+                {
+                    "Sentence":"Grassroots movements have been effective in promoting environmental conservation"
+                }
+            ]
+        },
+        {
+            "Word":"Public-private partnerships",
+            "Type":"Positive",
+            "Meaning":"Collaboration between government and private companies.",
+            "Example":[
+                {
+                    "Sentence":"Public-private partnerships can improve infrastructure development."
+                }
+            ]
+        },
+        {
+            "Word":"Social entrepreneurship",
+            "Type":"Positive",
+            "Meaning":"Businesses that aim to solve social problems.",
+            "Example":[
+                {
+                    "Sentence":"Social entrepreneurship is gaining popularity as a way to address poverty."
+                }
+            ]
+        },
+        {
+            "Word":"Universal basic income",
+            "Type":"Positive",
+            "Meaning":" A guaranteed income for all citizens",
+            "Example":[
+                {
+                    "Sentence":"Universal basic income could reduce poverty and inequality"
+                }
+            ]
+        },
+        {
+            "Word":"Inclusive education",
+            "Type":"Positive",
+            "Meaning":"Education that accommodates all students, regardless of ability.",
+            "Example":[
+                {
+                    "Sentence":"Inclusive education promotes equality and diversity in schools."
+                }
+            ]
+        },
+        {
+            "Word":"Affirmative action",
+            "Type":"Positive",
+            "Meaning":" Policies to support disadvantaged groups.",
+            "Example":[
+                {
+                    "Sentence":"Affirmative action can help bridge the income gap"
+                }
+            ]
+        },
+        {
+            "Word":"Public awareness campaigns",
+            "Type":"Positive",
+            "Meaning":"Efforts to educate the public about important issues",
+            "Example":[
+                {
+                    "Sentence":"Public awareness campaigns can reduce stigma and encourage people to seek help"
+                }
+            ]
+        },
+        {
+            "Word":"Social integration",
+            "Type":"Positive",
+            "Meaning":"The process of bringing different groups together",
+            "Example":[
+                {
+                    "Sentence":"Social integration is essential for building cohesive societies"
+                }
+            ]
+        },
+        {
+            "Word":"Sustainable urban planning",
+            "Type":"Positive",
+            "Meaning":"Planning that ensures long-term development of cities",
+            "Example":[
+                {
+                    "Sentence":"Sustainable urban planning can reduce pollution and improve quality of life"
+                }
+            ]
         }
        ] 
+    },
+    {
+        "Topics":" cause-and-effect relationships",
+        "Subtopics":[
+            {
+                "Word":"have led to",
+                "Type":"Positive",
+                "Meaning":"Indicates a cause-and-effect relationship",
+                "Example":[
+                    {
+                        "Sentence":"Advances in technology have led to significant improvements in healthcare, enabling earlier diagnosis and more effective treatments."
+                    }
+                ]
+            }
+        ]
     }
 ]
